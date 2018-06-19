@@ -1,0 +1,34 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.6.0",
+  "FriendlyName": "Google Analytics Provider",
+  "Description": "Google Analytics Provider for all platforms",
+  "Category": "Analytics",
+  "CreatedBy": "gameDNA studio",
+  "CreatedByURL": "http://gamednastudio.com",
+  "DocsURL": "http://gamednastudio.com/plugins/docs/GoogleAnalytics_UserGuide.pdf",
+  "MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/1b3f6c0fc07648b18758f7b883358b3e",
+  "EngineVersion": "4.13.0",
+  "SupportURL": "mailto:support@gamednastudio.com",
+  "Modules": [
+    {
+      "Name": "GoogleAnalytics",
+      "Type": "Runtime",
+	  "LoadingPhase": "Default",
+	  "WhitelistPlatforms": [
+        "Win64",
+        "Win32",
+        "Linux",
+        "Mac",
+        "IOS",
+        "Android"
+      ]
+    }
+  ],
+  "EnabledByDefault": true,
+  "CanContainContent": false,
+  "IsBetaVersion": false,
+  "Installed": true,
+  "RequiresBuildPlatform": false
+}

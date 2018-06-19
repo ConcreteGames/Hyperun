@@ -1,0 +1,26 @@
+{
+	"FileVersion" : 3,
+	"Version" : 2,
+	"VersionName" : "1.0.1",
+	"FriendlyName" : "Low Entry - Compression",
+	"Description" : "The Compression plugin provides you with blueprints to compress bytes, so they take up less space.",
+	"Category" : "Low Entry.Plugins",
+	"CreatedBy" : "Low Entry",
+	"CreatedByURL" : "http://lowentry.com",
+	"DocsURL" : "",
+	"MarketplaceURL" : "com.epicgames.launcher://ue/marketplace/content/8e35c7f136ee41c581255e3762d5738e",
+	"SupportURL" : "",
+	"EnabledByDefault" : true,
+	"CanContainContent" : false,
+	"IsBetaVersion" : false,
+	"Installed" : true,
+	"RequiresBuildPlatform" : false,
+	"Modules" :
+	[
+		{
+			"Name" : "LowEntryCompression",
+			"Type" : "Runtime",
+			"LoadingPhase" : "PreDefault"
+		}
+	]
+}

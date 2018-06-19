@@ -1,0 +1,23 @@
+{
+  "FileVersion": 3,
+  "PluginFileVersion": 1,
+
+  "FriendlyName": "AdvancedSteam",
+  "Version": 1,
+  "VersionName": "1.0",
+  "CreatedBy": "Rocketwerkz Limited.",
+  "CreatedByURL": "http://rocketwerkz.com",
+  "EngineVersion": "4.13.0",
+  "Description": "Rocketwerkz Unreal Engine 4 SDK",
+  "Category": "AdvancedSteam",
+  "EnabledByDefault": true,
+  "CanContainContent": false,
+  "Modules": [
+    {
+      "Name": "AdvancedSteam",
+      "Type": "Runtime",
+      "WhitelistPlatforms": [ "Win32", "Win64", "Mac" ],
+      "LoadingPhase": "Default"
+    }
+  ]
+}

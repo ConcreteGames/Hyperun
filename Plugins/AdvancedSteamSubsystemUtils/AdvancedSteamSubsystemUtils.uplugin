@@ -1,0 +1,21 @@
+{
+	"FileVersion" : 3,
+	
+	"FriendlyName" : "Advanced Steam Utils",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"EngineVersion" : "4.13.0",
+	"Description" : "Rocketwerkz Unreal Engine 4 SDK",
+	"Category" : "AdvancedSteam",
+	"CreatedBy" : "Rocketwerkz Limited.",
+	"CreatedByURL" : "http://rocketwerkz.com",
+	"EnabledByDefault" : true,
+
+    "Modules": [
+        {
+            "Name": "AdvancedSteamSubsystemUtils",
+            "Type": "Runtime",
+            "LoadingPhase": "PreDefault"
+        }
+    ]
+}

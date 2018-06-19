@@ -1,0 +1,2094 @@
+﻿# Game English translation.
+# Copyright 1998-2016 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2017-08-10 12:22\n"
+"PO-Revision-Date: 2017-08-10 12:22\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	005962994B8FDABD148029B1950BD97F
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_180.Text
+#. Key:	FA4938624560E80DED8912A6CBB7534D_NewEnumerator1815
+#. SourceLocation:	/Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_180.Text
+msgid "Double Frontflip"
+msgstr "Double Frontflip"
+
+#. Key:	015CEDFA40ED7B32F861EAB8B6FCB8B7
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.T_RumbleEnable.Text
+#. Key:	DA7FBA91414ABB6719DF8C8665BD7B85
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:ToggleRumble [Script Bytecode]
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:ToggleRumble [Script Bytecode]
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.T_RumbleEnable.Text
+msgid "YES"
+msgstr "YES"
+
+#. Key:	02F2BC1C41E56E95210059AC1778125E
+#. SourceLocation:	/Game/UI/Inventory/E_InventoryItems.E_InventoryItems.DisplayNames(2).DisplayNames
+#: /Game/UI/Inventory/E_InventoryItems.E_InventoryItems.DisplayNames(2).DisplayNames
+msgid "TurboStart_300"
+msgstr "TurboStart_300"
+
+#. Key:	043F9D7C4A4F0FBD11936DA58DE9B3CF
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(10).DisplayNames
+#: /Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(10).DisplayNames
+msgid "Entry10"
+msgstr "Entry10"
+
+#. Key:	047706EE43B5F570ADA0D28F8E7143CB
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_MainMenuPannel.UI_MainMenuPannel_C:WidgetTree.Txt_Title1.Text
+#: /Game/UI/Menus/MainMenu/UI_MainMenuPannel.UI_MainMenuPannel_C:WidgetTree.Txt_Title1.Text
+msgid "OPTION1"
+msgstr "OPTION1"
+
+#. Key:	04BD43274EE202F167B346863A9C11FB
+#. SourceLocation:	/Game/Gameplay/ItemsDatabase/E_ItemType.E_ItemType.DisplayNames(3).DisplayNames
+#: /Game/Gameplay/ItemsDatabase/E_ItemType.E_ItemType.DisplayNames(3).DisplayNames
+msgid "BodyMat"
+msgstr "BodyMat"
+
+#. Key:	04F3385A4FDB2EAC30CDC6B2E54ACC7A
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Value4.Text
+#. Key:	053C26B740AB89949641B18F1B8F675B
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Value5.Text
+#. Key:	0CEB4E5F4BCDF5F85D2B4BB38D04AE3A
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Value8.Text
+#. Key:	5D7EB7D0440E49617E980EB4456C4610
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Value7.Text
+#. Key:	619068FB40455C083B94FC88F44E23EF
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Value1.Text
+#. Key:	66DBEE24430869A0527DBEB4DE439F41
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Value6.Text
+#. Key:	75C8FC9A41A4732E6A15A6AB115B4BFF
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Value10.Text
+#. Key:	7E7A8E37438BDEEF49C936BFAB5AB59A
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Value2.Text
+#. Key:	9465C1E74CAD937C787042B2299DF700
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_ValueAround1.Text
+#. Key:	995D82214D544EDFE636FA83AA240862
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_ValueAround3.Text
+#. Key:	C187708B42BD03C9E2B9749FEE58B4A8
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_ValueAround2.Text
+#. Key:	F4FB9B564AA4DB3E757D90975EE4D062
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Value3.Text
+#. Key:	FD24B5814D6CD77BEBB69AABF404DAFF
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Value9.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Value1.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Value10.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Value2.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Value3.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Value4.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Value5.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Value6.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Value7.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Value8.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Value9.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_ValueAround1.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_ValueAround2.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_ValueAround3.Text
+msgid "999.999.999.999"
+msgstr "999.999.999.999"
+
+#. Key:	058CD4304A53A3C7B882F4951FFC7619
+#. SourceLocation:	/Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(10).DisplayNames
+#: /Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(10).DisplayNames
+msgid "StartNewRun"
+msgstr "StartNewRun"
+
+#. Key:	07235B6840D105AE85336FB7DB375547
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(4).DisplayNames
+#: /Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(4).DisplayNames
+msgid "Entry4"
+msgstr "Entry4"
+
+#. Key:	09A98E4445FE7C02E88D188211B9D6C9
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Value_SpeedInteger.Text
+#: /Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Value_SpeedInteger.Text
+msgid "332"
+msgstr "332"
+
+#. Key:	0B277CCA43B13B65DDC1919F383EE802
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+msgid "RT"
+msgstr "RT"
+
+#. Key:	0BA14BEC4C8ED4ED0FDED2A84D8867D8
+#. SourceLocation:	/Game/UI/HUD/UI_SteamProfile.UI_SteamProfile_C:WidgetTree.T_SteamPlayerName.Text
+#: /Game/UI/HUD/UI_SteamProfile.UI_SteamProfile_C:WidgetTree.T_SteamPlayerName.Text
+msgid "Connecting to Steam"
+msgstr "Connecting to Steam"
+
+#. Key:	0C10D74C9945E1DEE84634BBD12245E5
+#. SourceLocation:	/Game/Base/Blueprints/BP_GamemodeRun.BP_GamemodeRun_C:ExecuteUbergraph_BP_GamemodeRun [Script Bytecode]
+#: /Game/Base/Blueprints/BP_GamemodeRun.BP_GamemodeRun_C:ExecuteUbergraph_BP_GamemodeRun [Script Bytecode]
+msgid "\"I’m your coach and I prepared you a small training to teach you the basics.\""
+msgstr "\"I’m your coach and I prepared you a small training to teach you the basics.\""
+
+#. Key:	0C136660400FD55D448CCB86A9914D66
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_172.Text
+#. Key:	FA4938624560E80DED8912A6CBB7534D_NewEnumerator1210
+#. SourceLocation:	/Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_172.Text
+msgid "Reverse 720°"
+msgstr "Reverse 720°"
+
+#. Key:	0C2C7D3D4DF6A11D24F1B4ACF4E6E83F
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Rank10.Text
+#. Key:	1A5E90E549ADF8BF3608D5B3F9FDDE12
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Rank2.Text
+#. Key:	407798CE4AB22EBC1C7826B52194373B
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Rank6.Text
+#. Key:	4E56F9FA4B1C019384488E8AB6A0D2D0
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Rank7.Text
+#. Key:	58003AB2430D2C9AF99E3D987EDE7293
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Rank5.Text
+#. Key:	732C251F4BBE558C0727D697694A871D
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Rank4.Text
+#. Key:	91A48DCD47BB2ABCBB8BFFBCDC8DD696
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Rank8.Text
+#. Key:	9BE349E64DFB3697E276E980362D5E05
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Rank3.Text
+#. Key:	CA1E8D0E4D1532C14FCAF7ADF53A1D91
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Rank9.Text
+#. Key:	EC6BD8A847F7799AA856A7BB399F1ACF
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_RankAround3.Text
+#. Key:	F29ACD054773E96B74B07B827704C35A
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_RankAround1.Text
+#. Key:	F715AB604C748B3D3D5AA5A32EE2762E
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_RankAround2.Text
+#. Key:	FBAB4A1E42039014777AAAAB5805B6B7
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Rank1.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Rank1.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Rank10.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Rank2.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Rank3.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Rank4.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Rank5.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Rank6.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Rank7.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Rank8.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Rank9.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_RankAround1.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_RankAround2.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_RankAround3.Text
+msgid "999.999"
+msgstr "999.999"
+
+#. Key:	0CF6C8B94891340D9D9A5588F461E335
+#. SourceLocation:	/Game/Gameplay/ItemsDatabase/E_Brands.E_Brands.DisplayNames(5).DisplayNames
+#: /Game/Gameplay/ItemsDatabase/E_Brands.E_Brands.DisplayNames(5).DisplayNames
+msgid "Syncopation"
+msgstr "Syncopation"
+
+#. Key:	0D710E294A554E40C8817FB3E1108BA2
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ExecuteUbergraph_UI_GIF [Script Bytecode]
+#: /Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ExecuteUbergraph_UI_GIF [Script Bytecode]
+msgid "GIF Uploaded"
+msgstr "GIF Uploaded"
+
+#. Key:	0FA93A8147C99B6C3BB7CDB339C69A1C
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_163.Text
+#. Key:	FA4938624560E80DED8912A6CBB7534D_NewEnumerator97
+#. SourceLocation:	/Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_163.Text
+msgid "720°"
+msgstr "720°"
+
+#. Key:	1014CDB24C96999D4D70F2BCBDA2CFB4
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ExecuteUbergraph_UI_GIF [Script Bytecode]
+#. Key:	14225A6F41F9E7539B431A975F567DDE
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ShareTwitter [Script Bytecode]
+#. Key:	624606F24E45D15F70A2F2A892CF115B
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:WidgetTree.Title.Text
+#: /Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ExecuteUbergraph_UI_GIF [Script Bytecode]
+#: /Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ShareTwitter [Script Bytecode]
+#: /Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:WidgetTree.Title.Text
+msgid "Sharing on Twitter"
+msgstr "Sharing on Twitter"
+
+#. Key:	10D3F9074F6C1061A142BAA457B0380F
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+msgid "Right Stick Up"
+msgstr "Right Stick Up"
+
+#. Key:	1351ACD3498AF60C26BB5DAEEB62FBBF
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_ChangeLevel.E_Slider_ChangeLevel.DisplayNames(2).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_ChangeLevel.E_Slider_ChangeLevel.DisplayNames(2).DisplayNames
+msgid "Krono Vector"
+msgstr "Krono Vector"
+
+#. Key:	1537009A45E9BD90979EC28815A1672C
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_Time.E_Slider_Time.DisplayNames(3).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_Time.E_Slider_Time.DisplayNames(3).DisplayNames
+msgid "Night"
+msgstr "Night"
+
+#. Key:	15C3D8F347B19D40FE84CE86EDBE3750
+#. SourceLocation:	/Game/UI/Menus/UnlockBonusScreen/UI_UnlockBonus.UI_UnlockBonus_C:WidgetTree.NewTitle2.Text
+#: /Game/UI/Menus/UnlockBonusScreen/UI_UnlockBonus.UI_UnlockBonus_C:WidgetTree.NewTitle2.Text
+msgid "You won a Super Turbo!"
+msgstr "You won a Super Turbo!"
+
+#. Key:	17118697410DB7731141A7A96ACD4BAF
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P7.Text
+#. Key:	2335F9964291E1B023C0649ED15631D6
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P16.Text
+#. Key:	257697B249EF432E3AD8D0A1C8C48A7C
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K3.Text
+#. Key:	2709977B43C7A1B7CA46DCA60FA9516C
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P12.Text
+#. Key:	273870214FBFAE916AF2A3BE03F62826
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K9.Text
+#. Key:	2DB887B241FD6180FE001882BC79C41E
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P17.Text
+#. Key:	2F53B31F424FBBF569A33F8A9A7CE296
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_CustoPannel.UI_CustoPannel_C:ExecuteUbergraph_UI_CustoPannel [Script Bytecode]
+#. Key:	38369F9C44FE8B0D395050B84D23A540
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K5.Text
+#. Key:	426315C8491317C3E00C7EB63F1468C2
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P13.Text
+#. Key:	4277BCD840970E5591968B8EBFF79D55
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P14.Text
+#. Key:	43EC160C4A284CF1B6C83BBE1ECAF231
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K8.Text
+#. Key:	4BCE6B194FE1C70CECB00EB386DC05C2
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K14.Text
+#. Key:	4D6713EB4CFB81995E7E45A7F20F6608
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P15.Text
+#. Key:	53984AA24BBA77BFDA8F2692B444D8B4
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P5.Text
+#. Key:	59615BA24E3466D4524D5E9BBA9F5C25
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P9.Text
+#. Key:	5BD8E52F4C9980422FBB47B5A6E6C3A7
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K13.Text
+#. Key:	5D093EC4443964E55DBFC599BF41991E
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Text_WFStats_Speed_TotalPlayers.Text
+#. Key:	6112AD904388F9CD8A5D318F794DAB16
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P2.Text
+#. Key:	68A0F31344B3E1A36A9A72AECA005512
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P4.Text
+#. Key:	79FA95EF434E202DE3DB188D2CA2509C
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K7.Text
+#. Key:	7AE94665463B4976555D5AB88CD502C3
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P8.Text
+#. Key:	7EF1E83F462E101901D8CFB247CF95E3
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P3.Text
+#. Key:	8F38A3F743B7A4632F0523A8D5D6E6E8
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K10.Text
+#. Key:	9186AF404F266C2C1FBE9289739A9EC2
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K12.Text
+#. Key:	979131E74B42E63A253EC6868C5FF5FF
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P1.Text
+#. Key:	9963AA9F467D3FAA83DD629DBF10E2A7
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K17.Text
+#. Key:	AEB0BDFF40703767C95736973A26B940
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K11.Text
+#. Key:	B250ACE747FFC3CC1C9742A516762880
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P11.Text
+#. Key:	BCF5966F462E56FCF901A5A9FA349CF4
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Text_WFStats_Speed_MyPosition.Text
+#. Key:	BD3D01E0415650F86B2565B086ACB51E
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K16.Text
+#. Key:	C715E776493316843035409A63EF2938
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P10.Text
+#. Key:	CDA84CED40616BF06D14E483F5C27673
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K15.Text
+#. Key:	D631A5A04BE7521DF50C3B99DC0C5FEB
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K1.Text
+#. Key:	E0A7F10E4F1CE626C38E8C981F4AD963
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P6.Text
+#. Key:	E8EED3CF4525B42BE63B8A87175E45BE
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K6.Text
+#. Key:	F13001484110ED5050E814A0BA8AE50D
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K2.Text
+#. Key:	FDFFBB1447081FD5F8D679917B4E559A
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K4.Text
+#: /Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Text_WFStats_Speed_MyPosition.Text
+#: /Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Text_WFStats_Speed_TotalPlayers.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K1.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K10.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K11.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K12.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K13.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K14.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K15.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K16.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K17.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K2.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K3.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K4.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K5.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K6.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K7.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K8.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.K9.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P1.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P10.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P11.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P12.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P13.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P14.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P15.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P16.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P17.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P2.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P3.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P4.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P5.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P6.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P7.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P8.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.P9.Text
+#: /Game/UI/Menus/MainMenu/UI_CustoPannel.UI_CustoPannel_C:ExecuteUbergraph_UI_CustoPannel [Script Bytecode]
+msgid "-"
+msgstr "-"
+
+#. Key:	180248E547086F44575255BA4A2C21A6
+#. SourceLocation:	/Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(7).DisplayNames
+#: /Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(7).DisplayNames
+msgid "UseBoost"
+msgstr "UseBoost"
+
+#. Key:	188C810D4B1AECA6711F1C9AB98F441C
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(3).DisplayNames
+#: /Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(3).DisplayNames
+msgid "Entry3"
+msgstr "Entry3"
+
+#. Key:	18E0689C4DA38B03DA8C989123EABC09
+#. SourceLocation:	/Game/Base/Blueprints/BP_GamemodeRun.BP_GamemodeRun_C:ExecuteUbergraph_BP_GamemodeRun [Script Bytecode]
+#: /Game/Base/Blueprints/BP_GamemodeRun.BP_GamemodeRun_C:ExecuteUbergraph_BP_GamemodeRun [Script Bytecode]
+msgid "\"When you release the drift control, you turn at ninety degrees. Use this technique to ride through all the doors.\""
+msgstr "\"When you release the drift control, you turn at ninety degrees. Use this technique to ride through all the doors.\""
+
+#. Key:	191AD8D344F27A8825D609911522E2B3
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ShareTwitter [Script Bytecode]
+#: /Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ShareTwitter [Script Bytecode]
+msgid "Preparing GIF generation"
+msgstr "Preparing GIF generation"
+
+#. Key:	19F675A943B112478DD61F8001693836
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Value_Distance.Text
+#: /Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Value_Distance.Text
+msgid "75 123 m"
+msgstr "75 123 m"
+
+#. Key:	1AD9A8EC4404753245099298383C8B34
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Pannel_Options.E_Pannel_Options.DisplayNames(8).DisplayNames
+#. Key:	FDD150B448C13A7DE774BF87FD199836
+#. SourceLocation:	/Game/Base/Blueprints/E_GameFlow.E_GameFlow.DisplayNames(5).DisplayNames
+#: /Game/Base/Blueprints/E_GameFlow.E_GameFlow.DisplayNames(5).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Pannel_Options.E_Pannel_Options.DisplayNames(8).DisplayNames
+msgid "Credits"
+msgstr "Credits"
+
+#. Key:	1AF181BD420D0F6A3E71208A63D3E003
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_164.Text
+#. Key:	FA4938624560E80DED8912A6CBB7534D_NewEnumerator108
+#. SourceLocation:	/Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_164.Text
+msgid "1080°"
+msgstr "1080°"
+
+#. Key:	1BA54A9E4D90EB499A6743B6FC5A66CB
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+msgid "A"
+msgstr "A"
+
+#. Key:	1BBABEA44C60C36F9481ECBEAC69ACA1
+#. SourceLocation:	/Game/Base/Blueprints/BP_PlayerController.BP_PlayerController_C:LoadControlsFromSave [Script Bytecode]
+#: /Game/Base/Blueprints/BP_PlayerController.BP_PlayerController_C:LoadControlsFromSave [Script Bytecode]
+msgid "None"
+msgstr "None"
+
+#. Key:	1C18DA6B4E49B415935045AC626BF1DC
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(14).DisplayNames
+#: /Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(14).DisplayNames
+msgid "AroundUserEntry3"
+msgstr "AroundUserEntry3"
+
+#. Key:	1D2B831B4795C187B41FFE887D17D9F7
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Flow_MainMenu.E_Flow_MainMenu.DisplayNames(0).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Flow_MainMenu.E_Flow_MainMenu.DisplayNames(0).DisplayNames
+msgid "Main"
+msgstr "Main"
+
+#. Key:	1D412C634E9E7B3866C354A7CDD530DD
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:SetWaitInput [Script Bytecode]
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:SetWaitInput [Script Bytecode]
+msgid "[WAITING INPUT]"
+msgstr "[WAITING INPUT]"
+
+#. Key:	1E0BAF9544ABC22F1889388E69848760
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_MainMenuPannel.UI_MainMenuPannel_C:WidgetTree.Txt_Title9.Text
+#: /Game/UI/Menus/MainMenu/UI_MainMenuPannel.UI_MainMenuPannel_C:WidgetTree.Txt_Title9.Text
+msgid "OPTION9"
+msgstr "OPTION9"
+
+#. Key:	1E8E8D9040798AF49EC3C39E7C3701A0
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+msgid "X"
+msgstr "X"
+
+#. Key:	1ED2DB384EB315089E4405B5D952CD03
+#. SourceLocation:	/Game/Gameplay/ItemsDatabase/E_ItemType.E_ItemType.DisplayNames(10).DisplayNames
+#. Key:	F68C1DF24A3F2CF16FDED5A5AA64D62E
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_Customise.E_Slider_Customise.DisplayNames(10).DisplayNames
+#: /Game/Gameplay/ItemsDatabase/E_ItemType.E_ItemType.DisplayNames(10).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_Customise.E_Slider_Customise.DisplayNames(10).DisplayNames
+msgid "Sponsor"
+msgstr "Sponsor"
+
+#. Key:	2033AE144568550C13A809974812C1DB
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_MenuSlider.UI_MenuSlider_C:WidgetTree.Txt_Slash3.Text
+#. Key:	7D27A61A4B3C770C2AD9ACBE86F89A99
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_MenuSlider.UI_MenuSlider_C:WidgetTree.Txt_Slash2.Text
+#. Key:	A625E28C4A1F4848B18BC099F6F1D06C
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_MenuSlider.UI_MenuSlider_C:WidgetTree.Txt_Slash4.Text
+#. Key:	D73F71AF4C6094208C7CA7871149B1DA
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_MenuSlider.UI_MenuSlider_C:WidgetTree.Txt_Slash1.Text
+#. Key:	E8995F054F079B165AAA8FBD8F7D23DC
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_MenuSlider.UI_MenuSlider_C:WidgetTree.Txt_Slash5.Text
+#: /Game/UI/Menus/MainMenu/UI_MenuSlider.UI_MenuSlider_C:WidgetTree.Txt_Slash1.Text
+#: /Game/UI/Menus/MainMenu/UI_MenuSlider.UI_MenuSlider_C:WidgetTree.Txt_Slash2.Text
+#: /Game/UI/Menus/MainMenu/UI_MenuSlider.UI_MenuSlider_C:WidgetTree.Txt_Slash3.Text
+#: /Game/UI/Menus/MainMenu/UI_MenuSlider.UI_MenuSlider_C:WidgetTree.Txt_Slash4.Text
+#: /Game/UI/Menus/MainMenu/UI_MenuSlider.UI_MenuSlider_C:WidgetTree.Txt_Slash5.Text
+msgid "/"
+msgstr "/"
+
+#. Key:	20BCA46247BF8C179FB3A0B425B4545C
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_127.Text
+#. Key:	FA4938624560E80DED8912A6CBB7534D_NewEnumerator64
+#. SourceLocation:	/Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_127.Text
+msgid "Triple Kickflip"
+msgstr "Triple Kickflip"
+
+#. Key:	20C5D1FA49365B83863075BF66F6EFD4
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(12).DisplayNames
+#: /Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(12).DisplayNames
+msgid "AroundUserEntry1"
+msgstr "AroundUserEntry1"
+
+#. Key:	215D83784845ADAFF3663A8F0146BC76
+#. SourceLocation:	/Game/Gameplay/ItemsDatabase/E_ItemType.E_ItemType.DisplayNames(6).DisplayNames
+#: /Game/Gameplay/ItemsDatabase/E_ItemType.E_ItemType.DisplayNames(6).DisplayNames
+msgid "Tyre"
+msgstr "Tyre"
+
+#. Key:	2323C1164D49C282C5A5A5AFE127C8C3
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Text_TricksPoints.Text
+#: /Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Text_TricksPoints.Text
+msgid "TRICKS POINTS"
+msgstr "TRICKS POINTS"
+
+#. Key:	249BF40E4A0DAC5D7AFB1C8725BD7668
+#. SourceLocation:	/Game/Gameplay/ItemsDatabase/E_ItemType.E_ItemType.DisplayNames(0).DisplayNames
+#. Key:	D787350247AE4F339BE61DB1A8146598
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_Customise.E_Slider_Customise.DisplayNames(0).DisplayNames
+#: /Game/Gameplay/ItemsDatabase/E_ItemType.E_ItemType.DisplayNames(0).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_Customise.E_Slider_Customise.DisplayNames(0).DisplayNames
+msgid "Body"
+msgstr "Body"
+
+#. Key:	25F5AF4F47E2CFD5FB51F59364169282
+#. SourceLocation:	/Game/Base/Blueprints/BP_GamemodeRun.BP_GamemodeRun_C:ExecuteUbergraph_BP_GamemodeRun [Script Bytecode]
+#: /Game/Base/Blueprints/BP_GamemodeRun.BP_GamemodeRun_C:ExecuteUbergraph_BP_GamemodeRun [Script Bytecode]
+msgid "\"You understood the basics. You can quit training when you feel ready for the real challenge.\""
+msgstr "\"You understood the basics. You can quit training when you feel ready for the real challenge.\""
+
+#. Key:	261E8F974035AC9747FE13AB6AB9314D
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_152.Text
+#. Key:	FA4938624560E80DED8912A6CBB7534D_NewEnumerator75
+#. SourceLocation:	/Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_152.Text
+msgid "Triple Heelflip"
+msgstr "Triple Heelflip"
+
+#. Key:	2753C81043439C0FD9829B86990F6B22
+#. SourceLocation:	/Game/UI/HUD/UI_Version.UI_Version_C:WidgetTree.T_Version.Text
+#: /Game/UI/HUD/UI_Version.UI_Version_C:WidgetTree.T_Version.Text
+msgid "Version"
+msgstr "Version"
+
+#. Key:	27B080F24E289493D2286AB6FC81FB9C
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Flow_MainMenu.E_Flow_MainMenu.DisplayNames(3).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Flow_MainMenu.E_Flow_MainMenu.DisplayNames(3).DisplayNames
+msgid "ChangeTime"
+msgstr "ChangeTime"
+
+#. Key:	281FC42B41053B098F7603B7FD25077F
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_ReplayLoadingState.UI_ReplayLoadingState_C:WidgetTree.T_PleaseWait.Text
+#: /Game/UI/Menus/EndRunScreen/UI_ReplayLoadingState.UI_ReplayLoadingState_C:WidgetTree.T_PleaseWait.Text
+msgid "Please wait until the replay is sent before loading another replay."
+msgstr "Please wait until the replay is sent before loading another replay."
+
+#. Key:	29022E3A4D238D4A2CE5A2A639949DE9
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Text_Atoms.Text
+#: /Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Text_Atoms.Text
+msgid "ETHER"
+msgstr "ETHER"
+
+#. Key:	2AFF0CF44C91629BFC4EF5862A47C4A6
+#. SourceLocation:	/Game/Gameplay/ItemsDatabase/E_ItemType.E_ItemType.DisplayNames(4).DisplayNames
+#: /Game/Gameplay/ItemsDatabase/E_ItemType.E_ItemType.DisplayNames(4).DisplayNames
+msgid "ExhaustMat"
+msgstr "ExhaustMat"
+
+#. Key:	2D0BB29046664B227EFF25951321E74A
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_Time.E_Slider_Time.DisplayNames(1).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_Time.E_Slider_Time.DisplayNames(1).DisplayNames
+msgid "Sunset"
+msgstr "Sunset"
+
+#. Key:	2D46570A4130F8B24B41E19B81EF005C
+#. SourceLocation:	/Game/UI/Inventory/E_InventoryItems.E_InventoryItems.DisplayNames(3).DisplayNames
+#: /Game/UI/Inventory/E_InventoryItems.E_InventoryItems.DisplayNames(3).DisplayNames
+msgid "TurboStart_400"
+msgstr "TurboStart_400"
+
+#. Key:	2EF9111D40547FE2C3E9F9BFAFFD195E
+#. SourceLocation:	/Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(21).DisplayNames
+#: /Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(21).DisplayNames
+msgid "MenuRight"
+msgstr "MenuRight"
+
+#. Key:	2F3E274B43A4F5AB5AE800AC05BEA13F
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_CustoPannel.UI_CustoPannel_C:WidgetTree.Arrow_Up.Text
+#: /Game/UI/Menus/MainMenu/UI_CustoPannel.UI_CustoPannel_C:WidgetTree.Arrow_Up.Text
+msgid "/\\"
+msgstr "/\\"
+
+#. Key:	30671EBB49E8100D9234E5B52D9B37E4
+#. SourceLocation:	/Game/Gameplay/ItemsDatabase/E_ItemState.E_ItemState.DisplayNames(1).DisplayNames
+#: /Game/Gameplay/ItemsDatabase/E_ItemState.E_ItemState.DisplayNames(1).DisplayNames
+msgid "Buyable"
+msgstr "Buyable"
+
+#. Key:	309712FB4FB74DD3025B0EA3F258040B
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+msgid "RB"
+msgstr "RB"
+
+#. Key:	310F7B274D6F4B17C9B786B61C24CC03
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_RunHUD.UI_RunHUD_C:WidgetTree.TextBlock_205.Text
+#: /Game/UI/HUD/RunHUD/UI_RunHUD.UI_RunHUD_C:WidgetTree.TextBlock_205.Text
+msgid "Hyperun Live Event "
+msgstr "Hyperun Live Event "
+
+#. Key:	3223C4ED43DCBEE838C3ACB4E9957A2A
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/E_Slider_EndRun.E_Slider_EndRun.DisplayNames(4).DisplayNames
+#. Key:	488A10884DAB5DBA1F97BABD93E577FD
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_Leaderboards.E_Slider_Leaderboards.DisplayNames(4).DisplayNames
+#: /Game/UI/Menus/EndRunScreen/E_Slider_EndRun.E_Slider_EndRun.DisplayNames(4).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_Leaderboards.E_Slider_Leaderboards.DisplayNames(4).DisplayNames
+msgid "Friends Score"
+msgstr "Friends Score"
+
+#. Key:	335026C741D16F2BAEBEFBBF913CF4DD
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Pannel_Options.E_Pannel_Options.DisplayNames(0).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Pannel_Options.E_Pannel_Options.DisplayNames(0).DisplayNames
+msgid "Auto 60fps"
+msgstr "Auto 60fps"
+
+#. Key:	3462D9994EE58842D20DE68B58D7045E
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+msgid "Left Stick Left"
+msgstr "Left Stick Left"
+
+#. Key:	34EA4EEC423E8ECC33482C8415A789F3
+#. SourceLocation:	/Game/Base/Blueprints/E_GameFlow.E_GameFlow.DisplayNames(6).DisplayNames
+#: /Game/Base/Blueprints/E_GameFlow.E_GameFlow.DisplayNames(6).DisplayNames
+msgid "DailyRun"
+msgstr "DailyRun"
+
+#. Key:	37EBA7AF48137B36254309B460ABCDFF
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_RunHUD.UI_RunHUD_C:WidgetTree.Speed_Intergers_Value.Text
+#: /Game/UI/HUD/RunHUD/UI_RunHUD.UI_RunHUD_C:WidgetTree.Speed_Intergers_Value.Text
+msgid "100"
+msgstr "100"
+
+#. Key:	3956C87E4CDF9932ECB67D96BB1D9289
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+msgid "Left Stick Right"
+msgstr "Left Stick Right"
+
+#. Key:	3AD4060247DF0D3FFAD0D29E69996AA4
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_74.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_74.Text
+msgid "MENU SCROLL DOWN"
+msgstr "MENU SCROLL DOWN"
+
+#. Key:	3E6114EA4A881856D165E6BCA9EF76E3
+#. SourceLocation:	/Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(8).DisplayNames
+#: /Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(8).DisplayNames
+msgid "SwitchCamera"
+msgstr "SwitchCamera"
+
+#. Key:	3F4AF0854998FBBC5D91ACBFB649DE81
+#. SourceLocation:	/Game/Gameplay/ItemsDatabase/E_ItemType.E_ItemType.DisplayNames(1).DisplayNames
+#: /Game/Gameplay/ItemsDatabase/E_ItemType.E_ItemType.DisplayNames(1).DisplayNames
+msgid "BodyColor1"
+msgstr "BodyColor1"
+
+#. Key:	3F6B57FA4C95C398595D45AAA815ACA0
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_86.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_86.Text
+msgid "RESET SETTINGS"
+msgstr "RESET SETTINGS"
+
+#. Key:	3FA87604422800BFD1AA5E9F84548919
+#. SourceLocation:	/Game/UI/Menus/JoyVerticalPositions.JoyVerticalPositions.DisplayNames(0).DisplayNames
+#: /Game/UI/Menus/JoyVerticalPositions.JoyVerticalPositions.DisplayNames(0).DisplayNames
+msgid "Up"
+msgstr "Up"
+
+#. Key:	4034ACE840EE72F350E79F8BC8C70043
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_15.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_15.Text
+msgid "KEYBOARD/MOUSE"
+msgstr "KEYBOARD/MOUSE"
+
+#. Key:	40C9CB184CFCFB77BDC088A6021F5D58
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Name1.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_Name1.Text
+msgid "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+msgstr "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+
+#. Key:	4280BCDF49C233171E7974875CF992B9
+#. SourceLocation:	/Game/UI/HUD/UI_SteamProfile.UI_SteamProfile_C:WidgetTree.TextBlock_129.Text
+#: /Game/UI/HUD/UI_SteamProfile.UI_SteamProfile_C:WidgetTree.TextBlock_129.Text
+msgid "321,232,156"
+msgstr "321,232,156"
+
+#. Key:	42A0179143A0FFD1810838B1A2A5F57C
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:Get_Value_Distance [Script Bytecode]
+#: /Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:Get_Value_Distance [Script Bytecode]
+msgid "{A}{B}"
+msgstr "{A}{B}"
+
+#. Key:	43219BBA4D614DC12804C39B04EE583E
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_35.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_35.Text
+msgid "TRICK INPUT LEFT"
+msgstr "TRICK INPUT LEFT"
+
+#. Key:	432F7E5A48BD551158C0C0A2A512F358
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ExecuteUbergraph_UI_GIF [Script Bytecode]
+#: /Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ExecuteUbergraph_UI_GIF [Script Bytecode]
+msgid "Failed to generate GIF"
+msgstr "Failed to generate GIF"
+
+#. Key:	4352A5A14DFC14D04ED8038F96614F35
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.world.Text
+#. Key:	55D2951C40A96251744F998378C2F55B
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Text_WFStats_Speed.Text
+#: /Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Text_WFStats_Speed.Text
+#: /Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.world.Text
+msgid "WORLD RANKING:  "
+msgstr "WORLD RANKING:  "
+
+#. Key:	44F5C03044E1A6161BC49CBCFAE6266A
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_RunHUD.UI_RunHUD_C:WidgetTree.TotalScore_Text.Text
+#: /Game/UI/HUD/RunHUD/UI_RunHUD.UI_RunHUD_C:WidgetTree.TotalScore_Text.Text
+msgid "SCORE: "
+msgstr "SCORE: "
+
+#. Key:	453220D54BCD10214A7781ADC907614A
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_RunHUD.UI_RunHUD_C:WidgetTree.BoostText.Text
+#: /Game/UI/HUD/RunHUD/UI_RunHUD.UI_RunHUD_C:WidgetTree.BoostText.Text
+msgid "TurboBoost to 200 km/h"
+msgstr "TurboBoost to 200 km/h"
+
+#. Key:	460AD6C4444480B926C201A74C03454C
+#. SourceLocation:	/Game/UI/HUD/UI_SteamProfile.UI_SteamProfile_C:WidgetTree.Collectible_Value.Text
+#. Key:	AD10360842C21D98224306BA38E8DFCB
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_CustoPannel.UI_CustoPannel_C:WidgetTree.Txt_Price1.Text
+#: /Game/UI/HUD/UI_SteamProfile.UI_SteamProfile_C:WidgetTree.Collectible_Value.Text
+#: /Game/UI/Menus/MainMenu/UI_CustoPannel.UI_CustoPannel_C:WidgetTree.Txt_Price1.Text
+msgid "0"
+msgstr "0"
+
+#. Key:	463C300744FC6C6A26CBF5AEBA061C8D
+#. SourceLocation:	/Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(15).DisplayNames
+#: /Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(15).DisplayNames
+msgid "MenuReplay"
+msgstr "MenuReplay"
+
+#. Key:	47609C3A4459C74486CB728A0DC4FBA8
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+msgid "Y"
+msgstr "Y"
+
+#. Key:	47C3592E4CF1E4E2B75066BAE637BD9D
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_65.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_65.Text
+msgid "MENU TWEET"
+msgstr "MENU TWEET"
+
+#. Key:	48E178B74A615EDCFBA11AAEA1E8A997
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_123.Text
+#. Key:	FA4938624560E80DED8912A6CBB7534D_NewEnumerator00
+#. SourceLocation:	/Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_123.Text
+msgid "Kickflip"
+msgstr "Kickflip"
+
+#. Key:	495774C6437C5D8121D1479BE866F684
+#. SourceLocation:	/Game/Base/Blueprints/E_GameFlow.E_GameFlow.DisplayNames(1).DisplayNames
+#: /Game/Base/Blueprints/E_GameFlow.E_GameFlow.DisplayNames(1).DisplayNames
+msgid "MainMenu"
+msgstr "MainMenu"
+
+#. Key:	49B586874C96D026AC251FBA03BEEEBA
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(8).DisplayNames
+#: /Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(8).DisplayNames
+msgid "Entry8"
+msgstr "Entry8"
+
+#. Key:	4A3DAFEB47AC92F5D696C2AA79ACB2AE
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(9).DisplayNames
+#: /Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(9).DisplayNames
+msgid "Entry9"
+msgstr "Entry9"
+
+#. Key:	4A80707D427CEB08D47D0BB9E162A033
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_125.Text
+#. Key:	8A90F58C4369E270AA665AA7D742AD2D
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_RunHUD.UI_RunHUD_C:WidgetTree.HUD_TrickName.Text
+#. Key:	FA4938624560E80DED8912A6CBB7534D_NewEnumerator42
+#. SourceLocation:	/Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/UI/HUD/RunHUD/UI_RunHUD.UI_RunHUD_C:WidgetTree.HUD_TrickName.Text
+#: /Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_125.Text
+msgid "Double Kickflip"
+msgstr "Double Kickflip"
+
+#. Key:	4B3364AB47D8C3612EC95E8228BF0866
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Pannel_Level.E_Pannel_Level.DisplayNames(0).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Pannel_Level.E_Pannel_Level.DisplayNames(0).DisplayNames
+msgid "Read boards"
+msgstr "Read boards"
+
+#. Key:	4B3EBB0548C3896D130C1383B28DCFE4
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(0).DisplayNames
+#: /Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(0).DisplayNames
+msgid "ArrowUp"
+msgstr "ArrowUp"
+
+#. Key:	4B9BD27E4ACDC54572D590AECC1F4C38
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ShareTwitter [Script Bytecode]
+#. Key:	7CB7FA3544AD7EFC17B66E895EC35D58
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ExecuteUbergraph_UI_GIF [Script Bytecode]
+#: /Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ExecuteUbergraph_UI_GIF [Script Bytecode]
+#: /Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ShareTwitter [Script Bytecode]
+msgid "Failed to generate GIF Frame"
+msgstr "Failed to generate GIF Frame"
+
+#. Key:	4BE4207B420A187BB1BF5582CA8F47CB
+#. SourceLocation:	/Game/UI/HUD/UI_SteamProfile.UI_SteamProfile_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/HUD/UI_SteamProfile.UI_SteamProfile_C:WidgetTree.TextBlock_0.Text
+msgid "Rivals"
+msgstr "Rivals"
+
+#. Key:	4C15963F4BB8400F5DBC8F9D5BC73D40
+#. SourceLocation:	/Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(2).DisplayNames
+#: /Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(2).DisplayNames
+msgid "StrafeLeft"
+msgstr "StrafeLeft"
+
+#. Key:	4CACEC91483F6DC440D0BE92587A4890
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:WidgetTree.Editable_PIN.HintText
+#: /Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:WidgetTree.Editable_PIN.HintText
+msgid "press enter when done"
+msgstr "press enter when done"
+
+#. Key:	4CAF4C664B32D9F504720882DCDD522D
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_Customise.E_Slider_Customise.DisplayNames(9).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_Customise.E_Slider_Customise.DisplayNames(9).DisplayNames
+msgid "Rims Material"
+msgstr "Rims Material"
+
+#. Key:	4CF2B7FB41CA9AADCDDA6AABFC6E5919
+#. SourceLocation:	/Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(12).DisplayNames
+#: /Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(12).DisplayNames
+msgid "MenuValidate"
+msgstr "MenuValidate"
+
+#. Key:	4CF45D1049BA0FE5D88D6FA1200EC01B
+#. SourceLocation:	/Game/UI/HUD/KeyboardPadControls/UI_HUD_TutoControls.UI_HUD_TutoControls_C:WidgetTree.TextBlock_79.Text
+#: /Game/UI/HUD/KeyboardPadControls/UI_HUD_TutoControls.UI_HUD_TutoControls_C:WidgetTree.TextBlock_79.Text
+msgid "HOLD"
+msgstr "HOLD"
+
+#. Key:	4E349A7940AD574BC107259373C6E4C1
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ExecuteUbergraph_UI_GIF [Script Bytecode]
+#: /Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ExecuteUbergraph_UI_GIF [Script Bytecode]
+msgid "Uploading Gif - can take a few minutes"
+msgstr "Uploading Gif - can take a few minutes"
+
+#. Key:	4E6599BD48B64E64CE4FF2B2B471B779
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Pannel_Start.E_Pannel_Start.DisplayNames(3).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Pannel_Start.E_Pannel_Start.DisplayNames(3).DisplayNames
+msgid "Tricks Park"
+msgstr "Tricks Park"
+
+#. Key:	4F1B1BA24CF2B3975A7C668413534BCC
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_Time.E_Slider_Time.DisplayNames(0).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_Time.E_Slider_Time.DisplayNames(0).DisplayNames
+msgid "Random"
+msgstr "Random"
+
+#. Key:	4F21D7EC45C3B1ACD82EEAB8C8180BF7
+#. SourceLocation:	/Game/Base/Blueprints/E_GameFlow.E_GameFlow.DisplayNames(7).DisplayNames
+#: /Game/Base/Blueprints/E_GameFlow.E_GameFlow.DisplayNames(7).DisplayNames
+msgid "DailyEndRun"
+msgstr "DailyEndRun"
+
+#. Key:	4F68C5DB4F4312585B0023BC4E892256
+#. SourceLocation:	/Game/Gameplay/ItemsDatabase/E_Brands.E_Brands.DisplayNames(1).DisplayNames
+#: /Game/Gameplay/ItemsDatabase/E_Brands.E_Brands.DisplayNames(1).DisplayNames
+msgid "Gorilla Turbo"
+msgstr "Gorilla Turbo"
+
+#. Key:	4FA01D33498ED2CED08A1596D7478C2A
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_MainMenuPannel.UI_MainMenuPannel_C:WidgetTree.Txt_Title5.Text
+#: /Game/UI/Menus/MainMenu/UI_MainMenuPannel.UI_MainMenuPannel_C:WidgetTree.Txt_Title5.Text
+msgid "OPTION5"
+msgstr "OPTION5"
+
+#. Key:	5042BA5F4D688646F697548E8740BFE0
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Pannel_Daily.E_Pannel_Daily.DisplayNames(1).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Pannel_Daily.E_Pannel_Daily.DisplayNames(1).DisplayNames
+msgid "Daily Leaderboards"
+msgstr "Daily Leaderboards"
+
+#. Key:	50B4F4B64BECB0903C36179654BE50C5
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_Customise.E_Slider_Customise.DisplayNames(7).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_Customise.E_Slider_Customise.DisplayNames(7).DisplayNames
+msgid "Tyres Color"
+msgstr "Tyres Color"
+
+#. Key:	5126B42444F6B5D3904B078FD18F0E09
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Pannel_Exit.E_Pannel_Exit.DisplayNames(0).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Pannel_Exit.E_Pannel_Exit.DisplayNames(0).DisplayNames
+msgid "Leave Hyperun"
+msgstr "Leave Hyperun"
+
+#. Key:	51BFFB4342CBC3C8B720C7B4196C67A4
+#. SourceLocation:	/Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(1).DisplayNames
+#: /Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(1).DisplayNames
+msgid "DriftRight"
+msgstr "DriftRight"
+
+#. Key:	527B65D74C4C2DD244C847B21195D146
+#. SourceLocation:	/Game/UI/Inventory/E_InventoryItems.E_InventoryItems.DisplayNames(0).DisplayNames
+#: /Game/UI/Inventory/E_InventoryItems.E_InventoryItems.DisplayNames(0).DisplayNames
+msgid "Nothing"
+msgstr "Nothing"
+
+#. Key:	52C7C6A5430A462ED788B99ECFC9E045
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:Get_Value_Distance [Script Bytecode]
+#: /Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:Get_Value_Distance [Script Bytecode]
+msgid " m"
+msgstr " m"
+
+#. Key:	52DF1F6E4124D0390B88FF81CF73688E
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_MainMenuPannel.UI_MainMenuPannel_C:WidgetTree.Txt_Title6.Text
+#: /Game/UI/Menus/MainMenu/UI_MainMenuPannel.UI_MainMenuPannel_C:WidgetTree.Txt_Title6.Text
+msgid "OPTION6"
+msgstr "OPTION6"
+
+#. Key:	5450DBC14323242D574A3A9430E76593
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_ReplayLoadingState.UI_ReplayLoadingState_C:WidgetTree.T_ReplayState.Text
+#: /Game/UI/Menus/EndRunScreen/UI_ReplayLoadingState.UI_ReplayLoadingState_C:WidgetTree.T_ReplayState.Text
+msgid "Sending Replay"
+msgstr "Sending Replay"
+
+#. Key:	54C4A875450F2FC84142AB89A3CA32CE
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_LoadingReplay.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.T_LoadingReplay.Text
+msgid "Loading \r\nX's\r\nReplay..."
+msgstr "Loading \r\nX's\r\nReplay..."
+
+#. Key:	5520F9E746689A79120C68A91968D626
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Flow_MainMenu.E_Flow_MainMenu.DisplayNames(1).DisplayNames
+#. Key:	5EA3D8754C37E5F31B2A86B5AC7EAA9B
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Pannel_Vehicle.E_Pannel_Vehicle.DisplayNames(0).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Flow_MainMenu.E_Flow_MainMenu.DisplayNames(1).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Pannel_Vehicle.E_Pannel_Vehicle.DisplayNames(0).DisplayNames
+msgid "Customize"
+msgstr "Customize"
+
+#. Key:	555D5F614C839FFFC36F0C92B9833357
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_150.Text
+#. Key:	FA4938624560E80DED8912A6CBB7534D_NewEnumerator11
+#. SourceLocation:	/Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_150.Text
+msgid "Heelflip"
+msgstr "Heelflip"
+
+#. Key:	556A89CD4A3D010E68FCF0A05F115E6F
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_LastTricksList.UI_LastTricksList_C:WidgetTree.Text_Trick1.Text
+#: /Game/UI/HUD/RunHUD/UI_LastTricksList.UI_LastTricksList_C:WidgetTree.Text_Trick1.Text
+msgid "1,542m Triple Kickflip Double Reckless"
+msgstr "1,542m Triple Kickflip Double Reckless"
+
+#. Key:	5587F7A0430013014C6BF0A2E55E3B49
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_Customise.E_Slider_Customise.DisplayNames(4).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_Customise.E_Slider_Customise.DisplayNames(4).DisplayNames
+msgid "Exhausts Material"
+msgstr "Exhausts Material"
+
+#. Key:	559F5A714C5986C55A2C1FBB3B9A48BD
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+msgid "Right Stick Left"
+msgstr "Right Stick Left"
+
+#. Key:	564DD5BD45FD5DA6F5AB9CBA01CB66F8
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ExecuteUbergraph_UI_GIF [Script Bytecode]
+#: /Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ExecuteUbergraph_UI_GIF [Script Bytecode]
+msgid "GIf Upload Failed"
+msgstr "GIf Upload Failed"
+
+#. Key:	56AD9C1B4632B4F5787FB78FAC340616
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_Customise.E_Slider_Customise.DisplayNames(8).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_Customise.E_Slider_Customise.DisplayNames(8).DisplayNames
+msgid "Rims"
+msgstr "Rims"
+
+#. Key:	572C1B58481CEDD064FCAC8F21516B13
+#. SourceLocation:	/Game/Base/Blueprints/BP_GamemodeRun.BP_GamemodeRun_C:ExecuteUbergraph_BP_GamemodeRun [Script Bytecode]
+#: /Game/Base/Blueprints/BP_GamemodeRun.BP_GamemodeRun_C:ExecuteUbergraph_BP_GamemodeRun [Script Bytecode]
+msgid "\"While holding the drift control, try to make a 500 meters drift\""
+msgstr "\"While holding the drift control, try to make a 500 meters drift\""
+
+#. Key:	57AC0D264542D59E6501DCAFB79ECCB0
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_RunHUD.UI_RunHUD_C:WidgetTree.HuD_TrickPoints.Text
+#: /Game/UI/HUD/RunHUD/UI_RunHUD.UI_RunHUD_C:WidgetTree.HuD_TrickPoints.Text
+msgid "700 pts "
+msgstr "700 pts "
+
+#. Key:	58C687BF45A1DFEEBFC3C38385CC6A5E
+#. SourceLocation:	/Game/UI/Inventory/E_InventoryItems.E_InventoryItems.DisplayNames(4).DisplayNames
+#: /Game/UI/Inventory/E_InventoryItems.E_InventoryItems.DisplayNames(4).DisplayNames
+msgid "TurboStart_500"
+msgstr "TurboStart_500"
+
+#. Key:	59C5041F4AB3B6CBF24F1B8EB9163FF7
+#. SourceLocation:	/Game/UI/Menus/UnlockBonusScreen/UI_UnlockBonus.UI_UnlockBonus_C:WidgetTree.Title1.Text
+#: /Game/UI/Menus/UnlockBonusScreen/UI_UnlockBonus.UI_UnlockBonus_C:WidgetTree.Title1.Text
+msgid "Oh Yeah!"
+msgstr "Oh Yeah!"
+
+#. Key:	59F3EA644294DB15B81814807AFEF357
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ExecuteUbergraph_UI_GIF [Script Bytecode]
+#: /Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ExecuteUbergraph_UI_GIF [Script Bytecode]
+msgid "GIF Upload Failed"
+msgstr "GIF Upload Failed"
+
+#. Key:	5A5121D84C132D71C4CD18B9698A15A5
+#. SourceLocation:	/Game/Gameplay/ItemsDatabase/E_Brands.E_Brands.DisplayNames(2).DisplayNames
+#: /Game/Gameplay/ItemsDatabase/E_Brands.E_Brands.DisplayNames(2).DisplayNames
+msgid "Jin Lotus"
+msgstr "Jin Lotus"
+
+#. Key:	5BCAA6DB495568343D6168A05AC197E3
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_53.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_53.Text
+msgid "START RUN"
+msgstr "START RUN"
+
+#. Key:	5E8CBF054EA98A125ED1649E4B8DCF45
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Text_Distance.Text
+#: /Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Text_Distance.Text
+msgid "DISTANCE"
+msgstr "DISTANCE"
+
+#. Key:	5EC649AA45A8A514CB92658E7F7D9CE2
+#. SourceLocation:	/Game/UI/HUD/KeyboardPadControls/UI_HUD_TutoControls.UI_HUD_TutoControls_C:WidgetTree.TextBlock_140.Text
+#: /Game/UI/HUD/KeyboardPadControls/UI_HUD_TutoControls.UI_HUD_TutoControls_C:WidgetTree.TextBlock_140.Text
+msgid "TO TURN"
+msgstr "TO TURN"
+
+#. Key:	5F4D78DC48B3B6E479CED8B93E565D81
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Value_Atoms.Text
+#: /Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Value_Atoms.Text
+msgid "52"
+msgstr "52"
+
+#. Key:	619CF8024F146AFA697EEE904D14C810
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_38.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_38.Text
+msgid "TRICK INPUT RIGHT"
+msgstr "TRICK INPUT RIGHT"
+
+#. Key:	64692F8D4F2F86E3C98022AA587D4EBB
+#. SourceLocation:	/Game/UI/HUD/KeyboardPadControls/UI_HUD_TutoControls.UI_HUD_TutoControls_C:WidgetTree.TextBlock_106.Text
+#: /Game/UI/HUD/KeyboardPadControls/UI_HUD_TutoControls.UI_HUD_TutoControls_C:WidgetTree.TextBlock_106.Text
+msgid "OR"
+msgstr "OR"
+
+#. Key:	6627B99D41EE07D686D9D0922D4E30B4
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_29.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_29.Text
+msgid "STRAFE LEFT"
+msgstr "STRAFE LEFT"
+
+#. Key:	666475E74765E7234DCD07B90DCA486E
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+msgid "Right Stick Down"
+msgstr "Right Stick Down"
+
+#. Key:	678797704518079EB905FCA6ADA2F35B
+#. SourceLocation:	/Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(20).DisplayNames
+#: /Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(20).DisplayNames
+msgid "MenuLeft"
+msgstr "MenuLeft"
+
+#. Key:	69B5A99B4234D97A2E59598560373C60
+#. SourceLocation:	/Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(17).DisplayNames
+#: /Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(17).DisplayNames
+msgid "MenuScrollDown"
+msgstr "MenuScrollDown"
+
+#. Key:	6B2FA3D14491CEB51FFF2EBEBC607769
+#. SourceLocation:	/Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(13).DisplayNames
+#: /Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(13).DisplayNames
+msgid "MenuBack"
+msgstr "MenuBack"
+
+#. Key:	6CFA10C843706809F87F688A18552EBA
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.TextBlock_1.Text
+msgid " / "
+msgstr " / "
+
+#. Key:	6D3DE023405D16680CA90C8C391077D8
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ExecuteUbergraph_UI_GIF [Script Bytecode]
+#: /Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ExecuteUbergraph_UI_GIF [Script Bytecode]
+msgid "Completed to generate GIF"
+msgstr "Completed to generate GIF"
+
+#. Key:	6EE4B2E647B175E50123BEB579F7D5BD
+#. SourceLocation:	/Game/Base/Blueprints/E_GameFlow.E_GameFlow.DisplayNames(0).DisplayNames
+#: /Game/Base/Blueprints/E_GameFlow.E_GameFlow.DisplayNames(0).DisplayNames
+msgid "Title"
+msgstr "Title"
+
+#. Key:	6F2B18464B38569453EC52861B8869F2
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_RunHUD.UI_RunHUD_C:WidgetTree.TotalScore_Value.Text
+#: /Game/UI/HUD/RunHUD/UI_RunHUD.UI_RunHUD_C:WidgetTree.TotalScore_Value.Text
+msgid "999 999"
+msgstr "999 999"
+
+#. Key:	6FB63AED445388C16F81D8A29B3136E4
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_Leaderboards.E_Slider_Leaderboards.DisplayNames(1).DisplayNames
+#. Key:	DA244859461195B1170FADA5BCF33955
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/E_Slider_EndRun.E_Slider_EndRun.DisplayNames(1).DisplayNames
+#: /Game/UI/Menus/EndRunScreen/E_Slider_EndRun.E_Slider_EndRun.DisplayNames(1).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_Leaderboards.E_Slider_Leaderboards.DisplayNames(1).DisplayNames
+msgid "World Speed"
+msgstr "World Speed"
+
+#. Key:	6FDAAD1C4490C1E0B23D8FA0AFCE4995
+#. SourceLocation:	/Game/Gameplay/Roads/Blueprints/E_RoadType.E_RoadType.DisplayNames(3).DisplayNames
+#: /Game/Gameplay/Roads/Blueprints/E_RoadType.E_RoadType.DisplayNames(3).DisplayNames
+msgid "ZigZag"
+msgstr "ZigZag"
+
+#. Key:	70F1CFDA4891980C57C4F88D9C921BE0
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/E_Slider_EndRun.E_Slider_EndRun.DisplayNames(2).DisplayNames
+#. Key:	EAC8B0434AA569F87B0712955F66B938
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_Leaderboards.E_Slider_Leaderboards.DisplayNames(2).DisplayNames
+#: /Game/UI/Menus/EndRunScreen/E_Slider_EndRun.E_Slider_EndRun.DisplayNames(2).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_Leaderboards.E_Slider_Leaderboards.DisplayNames(2).DisplayNames
+msgid "World Score"
+msgstr "World Score"
+
+#. Key:	7126E1E1460BDE100ABBD68AD30F137D
+#. SourceLocation:	/Game/Gameplay/Roads/Blueprints/E_RoadType.E_RoadType.DisplayNames(0).DisplayNames
+#: /Game/Gameplay/Roads/Blueprints/E_RoadType.E_RoadType.DisplayNames(0).DisplayNames
+msgid "StraightLine"
+msgstr "StraightLine"
+
+#. Key:	7170F9FD40686AA0A699049E607C2A5E
+#. SourceLocation:	/Game/UI/HUD/KeyboardPadControls/UI_HUD_TutoControls.UI_HUD_TutoControls_C:WidgetTree.TextBlock_65.Text
+#: /Game/UI/HUD/KeyboardPadControls/UI_HUD_TutoControls.UI_HUD_TutoControls_C:WidgetTree.TextBlock_65.Text
+msgid " TO SLIDE "
+msgstr " TO SLIDE "
+
+#. Key:	7500B6BF41B907CAFE6D64B77C54C7F0
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+msgid "Left Stick Up"
+msgstr "Left Stick Up"
+
+#. Key:	768D98E844FCC4B9506827997C386252
+#. SourceLocation:	/Game/UI/HUD/UI_SteamProfile.UI_SteamProfile_C:WidgetTree.TextBlock_278.Text
+#: /Game/UI/HUD/UI_SteamProfile.UI_SteamProfile_C:WidgetTree.TextBlock_278.Text
+msgid "ETH"
+msgstr "ETH"
+
+#. Key:	7775340744E24E0082E01A85126E6F77
+#. SourceLocation:	/Game/Base/Blueprints/BP_GamemodeRun.BP_GamemodeRun_C:ExecuteUbergraph_BP_GamemodeRun [Script Bytecode]
+#: /Game/Base/Blueprints/BP_GamemodeRun.BP_GamemodeRun_C:ExecuteUbergraph_BP_GamemodeRun [Script Bytecode]
+msgid "\"Use trick inputs to make a combination, then jump to execute the trick!\""
+msgstr "\"Use trick inputs to make a combination, then jump to execute the trick!\""
+
+#. Key:	7787293E4D112FDD08E11D8DD7A7F3A1
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:WidgetTree.T_Progress.Text
+#: /Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:WidgetTree.T_Progress.Text
+msgid "Generating GIF"
+msgstr "Generating GIF"
+
+#. Key:	7827BD6F41DC693C02F99C9BE78B0C45
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_RunHUD.UI_RunHUD_C:WidgetTree.Speed_Decimals_Value.Text
+#: /Game/UI/HUD/RunHUD/UI_RunHUD.UI_RunHUD_C:WidgetTree.Speed_Decimals_Value.Text
+msgid ".000"
+msgstr ".000"
+
+#. Key:	7845C274436C07465A1209AA843CF552
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_183.Text
+#. Key:	FA4938624560E80DED8912A6CBB7534D_NewEnumerator1512
+#. SourceLocation:	/Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_183.Text
+msgid "Backflip"
+msgstr "Backflip"
+
+#. Key:	78D1E17E25449E00F8FFF78A54671552
+#. SourceLocation:	/Game/Base/Blueprints/BP_GamemodeRun.BP_GamemodeRun_C:ExecuteUbergraph_BP_GamemodeRun [Script Bytecode]
+#: /Game/Base/Blueprints/BP_GamemodeRun.BP_GamemodeRun_C:ExecuteUbergraph_BP_GamemodeRun [Script Bytecode]
+msgid "\"That’s it you’re in. You are going to enter the competition.\""
+msgstr "\"That’s it you’re in. You are going to enter the competition.\""
+
+#. Key:	78FDCADA45E614FDD29EA2A44246E035
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.TextBlock_0.Text
+msgid "Watch Replay"
+msgstr "Watch Replay"
+
+#. Key:	7BC266EB426696673D964C89523463EB
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Value_TricksPoints.Text
+#: /Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Value_TricksPoints.Text
+msgid "7 349 741 608"
+msgstr "7 349 741 608"
+
+#. Key:	7C299CBF444C921C623642B56656DACC
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_Customise.E_Slider_Customise.DisplayNames(1).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_Customise.E_Slider_Customise.DisplayNames(1).DisplayNames
+msgid "Body Main Color"
+msgstr "Body Main Color"
+
+#. Key:	7CD81DCA4E2CB54FA7E0A09767A5B058
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_ChangeVehicle.E_Slider_ChangeVehicle.DisplayNames(0).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_ChangeVehicle.E_Slider_ChangeVehicle.DisplayNames(0).DisplayNames
+msgid "Unicorn Gorilla Turbo GT180"
+msgstr "Unicorn Gorilla Turbo GT180"
+
+#. Key:	7D24AD0D483AF0541D708C81C5229C73
+#. SourceLocation:	/Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(6).DisplayNames
+#: /Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(6).DisplayNames
+msgid "Jump"
+msgstr "Jump"
+
+#. Key:	7E315F804A749419A201B09D4256EE65
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_19.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_19.Text
+msgid "DRIFT LEFT"
+msgstr "DRIFT LEFT"
+
+#. Key:	7E5A4EEF4A3A91CAF5E897AFA3FBC0A1
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_Customise.E_Slider_Customise.DisplayNames(6).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_Customise.E_Slider_Customise.DisplayNames(6).DisplayNames
+msgid "Tyres"
+msgstr "Tyres"
+
+#. Key:	8142B91A4DD5105CD3FBEC9C9AAB938E
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(5).DisplayNames
+#: /Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(5).DisplayNames
+msgid "Entry5"
+msgstr "Entry5"
+
+#. Key:	8157F89B4BA54B419D3F4EA618254685
+#. SourceLocation:	/Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(4).DisplayNames
+#: /Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(4).DisplayNames
+msgid "TrickInputLeft"
+msgstr "TrickInputLeft"
+
+#. Key:	81A3E02A4350A6AAD9D6D1A11561EB5B
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_MainMenu.E_Slider_MainMenu.DisplayNames(0).DisplayNames
+#. Key:	CB3DADB14F43D799451417810DE9EDC3
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Pannel_Start.E_Pannel_Start.DisplayNames(0).DisplayNames
+#. Key:	F73AF2E84C77B09A8D7066B9BCDDA154
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+#: /Game/UI/Menus/MainMenu/E_Pannel_Start.E_Pannel_Start.DisplayNames(0).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_MainMenu.E_Slider_MainMenu.DisplayNames(0).DisplayNames
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+msgid "Start"
+msgstr "Start"
+
+#. Key:	821940994164C11B1283D1A59620EADF
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(7).DisplayNames
+#: /Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(7).DisplayNames
+msgid "Entry7"
+msgstr "Entry7"
+
+#. Key:	83BCE14A483BF4E3486341B489A56120
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Pannel_Options.E_Pannel_Options.DisplayNames(2).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Pannel_Options.E_Pannel_Options.DisplayNames(2).DisplayNames
+msgid "Resolution"
+msgstr "Resolution"
+
+#. Key:	841B3FEC46D16E8A7B047EB4DA49C049
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_47.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_47.Text
+msgid "SWITCH CAMERA"
+msgstr "SWITCH CAMERA"
+
+#. Key:	84B2E70E443DBCDC23498A8D77C8A3D6
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+msgid "Left Stick Down"
+msgstr "Left Stick Down"
+
+#. Key:	85371A224F36B658062ABD874C37D167
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_184.Text
+#. Key:	FA4938624560E80DED8912A6CBB7534D_NewEnumerator1714
+#. SourceLocation:	/Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_184.Text
+msgid "Double Backflip"
+msgstr "Double Backflip"
+
+#. Key:	85FA76DD40121176F6D3A3AAD7D10270
+#. SourceLocation:	/Game/UI/Menus/JoyHorizontalPositions.JoyHorizontalPositions.DisplayNames(1).DisplayNames
+#. Key:	AB0946FD440854494732AE8C1AF7E626
+#. SourceLocation:	/Game/UI/Menus/JoyVerticalPositions.JoyVerticalPositions.DisplayNames(1).DisplayNames
+#: /Game/UI/Menus/JoyHorizontalPositions.JoyHorizontalPositions.DisplayNames(1).DisplayNames
+#: /Game/UI/Menus/JoyVerticalPositions.JoyVerticalPositions.DisplayNames(1).DisplayNames
+msgid "Deadzone"
+msgstr "Deadzone"
+
+#. Key:	871223D74C61915CBCE604A837F73A71
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_Controls.E_Slider_Controls.DisplayNames(0).DisplayNames
+#. Key:	96EF069A48590E8AA91B82A6F2901B65
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Pannel_Options.E_Pannel_Options.DisplayNames(5).DisplayNames
+#. Key:	C5C2A626410B94970F8772989C728896
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Flow_MainMenu.E_Flow_MainMenu.DisplayNames(5).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Flow_MainMenu.E_Flow_MainMenu.DisplayNames(5).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Pannel_Options.E_Pannel_Options.DisplayNames(5).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_Controls.E_Slider_Controls.DisplayNames(0).DisplayNames
+msgid "Controls"
+msgstr "Controls"
+
+#. Key:	873C6B9A464FC7F20B69409EE3FA45C0
+#. SourceLocation:	/Game/UI/Tuto/UI_Sentences.UI_Sentences_C:WidgetTree.Sentence.Text
+#: /Game/UI/Tuto/UI_Sentences.UI_Sentences_C:WidgetTree.Sentence.Text
+msgid "\"OK. Tu vas rentrer dans la compétition.\""
+msgstr "\"OK. Tu vas rentrer dans la compétition.\""
+
+#. Key:	894A9D29490B9828824FBCA7AE17AE4C
+#. SourceLocation:	/Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(16).DisplayNames
+#: /Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(16).DisplayNames
+msgid "MenuScrollUp"
+msgstr "MenuScrollUp"
+
+#. Key:	8AC9FD344BB55321059281B624B1A915
+#. SourceLocation:	/Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(0).DisplayNames
+#: /Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(0).DisplayNames
+msgid "DriftLeft"
+msgstr "DriftLeft"
+
+#. Key:	8AF61187407DC90B7362A088FD659B75
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_26.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_26.Text
+msgid "DRIFT RIGHT"
+msgstr "DRIFT RIGHT"
+
+#. Key:	8C04FA91434A1E8F972AC0BEC4B5FDA6
+#. SourceLocation:	/Game/UI/HUD/KeyboardPadControls/UI_HUD_TutoControls.UI_HUD_TutoControls_C:WidgetTree.TextBlock_12.Text
+#: /Game/UI/HUD/KeyboardPadControls/UI_HUD_TutoControls.UI_HUD_TutoControls_C:WidgetTree.TextBlock_12.Text
+msgid "USE"
+msgstr "USE"
+
+#. Key:	8D06542445011F09EDB416BBB550E963
+#. SourceLocation:	/Game/UI/Inventory/E_InventoryItems.E_InventoryItems.DisplayNames(5).DisplayNames
+#: /Game/UI/Inventory/E_InventoryItems.E_InventoryItems.DisplayNames(5).DisplayNames
+msgid "TurboStart_600"
+msgstr "TurboStart_600"
+
+#. Key:	8D6428A94B2DE12AB9065FADE8B4CCDC
+#. SourceLocation:	/Game/Gameplay/ItemsDatabase/E_ItemState.E_ItemState.DisplayNames(3).DisplayNames
+#: /Game/Gameplay/ItemsDatabase/E_ItemState.E_ItemState.DisplayNames(3).DisplayNames
+msgid "Hidden"
+msgstr "Hidden"
+
+#. Key:	8D77DCAF415295CA952F71990DF547B7
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_MainMenu.E_Slider_MainMenu.DisplayNames(4).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_MainMenu.E_Slider_MainMenu.DisplayNames(4).DisplayNames
+msgid "Exit"
+msgstr "Exit"
+
+#. Key:	8DC8B17341928F07E18CAD8599C589CF
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_62.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_62.Text
+msgid "MENU BACK"
+msgstr "MENU BACK"
+
+#. Key:	8E84ACEF4A5A901DB9A271BB27ADF07D
+#. SourceLocation:	/Game/Gameplay/ItemsDatabase/E_Brands.E_Brands.DisplayNames(6).DisplayNames
+#: /Game/Gameplay/ItemsDatabase/E_Brands.E_Brands.DisplayNames(6).DisplayNames
+msgid "Zebra"
+msgstr "Zebra"
+
+#. Key:	8F23DDB74333B7CA7CDFA4A1AC6CA326
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_MenuSlider.UI_MenuSlider_C:WidgetTree.Txt_Title.Text
+#: /Game/UI/Menus/MainMenu/UI_MenuSlider.UI_MenuSlider_C:WidgetTree.Txt_Title.Text
+msgid "TITLE"
+msgstr "TITLE"
+
+#. Key:	8FAAC494450D4DDDF07799BE3AAAE529
+#. SourceLocation:	/Game/Base/Blueprints/E_GameFlow.E_GameFlow.DisplayNames(2).DisplayNames
+#. Key:	B42129764895E2D109CC688F646A515D
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Pannel_Daily.E_Pannel_Daily.DisplayNames(0).DisplayNames
+#: /Game/Base/Blueprints/E_GameFlow.E_GameFlow.DisplayNames(2).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Pannel_Daily.E_Pannel_Daily.DisplayNames(0).DisplayNames
+msgid "Run"
+msgstr "Run"
+
+#. Key:	90A2A7D64A5C4FD1B3EA7281CEC4B535
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Pannel_Options.E_Pannel_Options.DisplayNames(6).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Pannel_Options.E_Pannel_Options.DisplayNames(6).DisplayNames
+msgid "Reset all settings"
+msgstr "Reset all settings"
+
+#. Key:	9163E9464036186800BEDBA0B34E4DE0
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_ChangeLevel.E_Slider_ChangeLevel.DisplayNames(0).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_ChangeLevel.E_Slider_ChangeLevel.DisplayNames(0).DisplayNames
+msgid "Santana"
+msgstr "Santana"
+
+#. Key:	9214D2FA411AF84E7F25B1A06DFE4D71
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_Customise.E_Slider_Customise.DisplayNames(2).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_Customise.E_Slider_Customise.DisplayNames(2).DisplayNames
+msgid "Body Secondary Color"
+msgstr "Body Secondary Color"
+
+#. Key:	92A39D2C49EB8BC07417D99EB3FA3466
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_RunHUD.UI_RunHUD_C:TrickPoints [Script Bytecode]
+#: /Game/UI/HUD/RunHUD/UI_RunHUD.UI_RunHUD_C:TrickPoints [Script Bytecode]
+msgid "{Points} pts"
+msgstr "{Points} pts"
+
+#. Key:	92ACA3934266160E628D4DBF4D1D8541
+#. SourceLocation:	/Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(18).DisplayNames
+#: /Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(18).DisplayNames
+msgid "MenuUp"
+msgstr "MenuUp"
+
+#. Key:	92FB118E4C4D72F6F73BEEAF5B039507
+#. SourceLocation:	/Game/Base/Blueprints/E_GameFlow.E_GameFlow.DisplayNames(4).DisplayNames
+#: /Game/Base/Blueprints/E_GameFlow.E_GameFlow.DisplayNames(4).DisplayNames
+msgid "Replay"
+msgstr "Replay"
+
+#. Key:	96C864D04A7321E4F3414C840353B84C
+#. SourceLocation:	/Game/UI/Inventory/E_InventoryItems.E_InventoryItems.DisplayNames(1).DisplayNames
+#: /Game/UI/Inventory/E_InventoryItems.E_InventoryItems.DisplayNames(1).DisplayNames
+msgid "TurboStart_200"
+msgstr "TurboStart_200"
+
+#. Key:	97268F274D7E5CF798DF129663C7F060
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_RunHUD.UI_RunHUD_C:WidgetTree.Speed_Unit.Text
+#: /Game/UI/HUD/RunHUD/UI_RunHUD.UI_RunHUD_C:WidgetTree.Speed_Unit.Text
+msgid " km/h"
+msgstr " km/h"
+
+#. Key:	97A464394D66F0F89725329809912D0B
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_Time.E_Slider_Time.DisplayNames(2).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_Time.E_Slider_Time.DisplayNames(2).DisplayNames
+msgid "Day"
+msgstr "Day"
+
+#. Key:	9838C94D467A036E2ECDFBB4906EA8A9
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_179.Text
+#. Key:	FA4938624560E80DED8912A6CBB7534D_NewEnumerator1613
+#. SourceLocation:	/Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_179.Text
+msgid "Frontflip"
+msgstr "Frontflip"
+
+#. Key:	99DD5DF547ECC7AAFA1287948DD5A4EC
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(11).DisplayNames
+#: /Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(11).DisplayNames
+msgid "ArrowDown"
+msgstr "ArrowDown"
+
+#. Key:	9ADEF91D4E3F2AA5A861A39708E0C235
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+msgid "LT"
+msgstr "LT"
+
+#. Key:	9C3061984C2DCCE7B6D27AB54BAEA4E3
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_MainMenu.E_Slider_MainMenu.DisplayNames(3).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_MainMenu.E_Slider_MainMenu.DisplayNames(3).DisplayNames
+msgid "Options"
+msgstr "Options"
+
+#. Key:	9C4FA9EC4EE07ABC19165085F3A52303
+#. SourceLocation:	/Game/Base/Blueprints/E_GameFlow.E_GameFlow.DisplayNames(3).DisplayNames
+#: /Game/Base/Blueprints/E_GameFlow.E_GameFlow.DisplayNames(3).DisplayNames
+msgid "EndRun"
+msgstr "EndRun"
+
+#. Key:	9D6FAB40437DFB2F15A4B28393918200
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Flow_MainMenu.E_Flow_MainMenu.DisplayNames(2).DisplayNames
+#. Key:	BCD63AEB408452587C1E8D9A0AECEE27
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_MainMenu.E_Slider_MainMenu.DisplayNames(2).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Flow_MainMenu.E_Flow_MainMenu.DisplayNames(2).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_MainMenu.E_Slider_MainMenu.DisplayNames(2).DisplayNames
+msgid "Leaderboards"
+msgstr "Leaderboards"
+
+#. Key:	9DA0B77F4C3E36FD2D03348BE0E6850C
+#. SourceLocation:	/Game/UI/HUD/UI_SteamProfile.UI_SteamProfile_C:WidgetTree.Text_Score.Text
+#: /Game/UI/HUD/UI_SteamProfile.UI_SteamProfile_C:WidgetTree.Text_Score.Text
+msgid "NEW HIGH SCORE!"
+msgstr "NEW HIGH SCORE!"
+
+#. Key:	9ED63FB543A33C542FC3BFAC73B20A09
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_162.Text
+#. Key:	FA4938624560E80DED8912A6CBB7534D_NewEnumerator86
+#. SourceLocation:	/Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_162.Text
+msgid "360°"
+msgstr "360°"
+
+#. Key:	A0676BBF42E8C918A4CA23B509C995B5
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.TextBlock_4.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.TextBlock_4.Text
+msgid "No replay to load!"
+msgstr "No replay to load!"
+
+#. Key:	A09EFA654F76398EF4C881BB1A0E53F9
+#. SourceLocation:	/Game/UI/HUD/UI_SteamProfile.UI_SteamProfile_C:WidgetTree.TextBlock_128.Text
+#: /Game/UI/HUD/UI_SteamProfile.UI_SteamProfile_C:WidgetTree.TextBlock_128.Text
+msgid "127. ShinDeFrance"
+msgstr "127. ShinDeFrance"
+
+#. Key:	A0D1083B4010E6870BAA198925EC02B7
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ExecuteUbergraph_UI_GIF [Script Bytecode]
+#: /Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ExecuteUbergraph_UI_GIF [Script Bytecode]
+msgid "Generating GIF 100%"
+msgstr "Generating GIF 100%"
+
+#. Key:	A1CA044F4AF386C8CB2E6CBE74EA1298
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Value_SpeedDecimals.Text
+#: /Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Value_SpeedDecimals.Text
+msgid ".789"
+msgstr ".789"
+
+#. Key:	A32EF40F423CE1FFD0C9039A2ACB872D
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+msgid "Left Stick Button"
+msgstr "Left Stick Button"
+
+#. Key:	A35D8BF545F61F9BC7CDA39EFA0379B4
+#. SourceLocation:	/Game/UI/Menus/JoyHorizontalPositions.JoyHorizontalPositions.DisplayNames(2).DisplayNames
+#: /Game/UI/Menus/JoyHorizontalPositions.JoyHorizontalPositions.DisplayNames(2).DisplayNames
+msgid "Right"
+msgstr "Right"
+
+#. Key:	A6C570EA45E9831D5FBF0F8819F737E3
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+msgid "LB"
+msgstr "LB"
+
+#. Key:	A72CD6B74F1CFD332E7923922212C999
+#. SourceLocation:	/Game/Gameplay/Roads/Blueprints/E_RoadType.E_RoadType.DisplayNames(2).DisplayNames
+#: /Game/Gameplay/Roads/Blueprints/E_RoadType.E_RoadType.DisplayNames(2).DisplayNames
+msgid "RFirstTurn"
+msgstr "RFirstTurn"
+
+#. Key:	A73F445D4E7B1F9C537FBD98C9368F65
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_CustoPannel.UI_CustoPannel_C:WidgetTree.Txt_ItemName1.Text
+#: /Game/UI/Menus/MainMenu/UI_CustoPannel.UI_CustoPannel_C:WidgetTree.Txt_ItemName1.Text
+msgid "Super Body GT 180"
+msgstr "Super Body GT 180"
+
+#. Key:	A745314F4BA30F9C5EB2FA85342D55B5
+#. SourceLocation:	/Game/UI/HUD/UI_SteamProfile.UI_SteamProfile_C:WidgetTree.TextBlock_126.Text
+#: /Game/UI/HUD/UI_SteamProfile.UI_SteamProfile_C:WidgetTree.TextBlock_126.Text
+msgid "45. JeShip"
+msgstr "45. JeShip"
+
+#. Key:	A89E55AB4117240F39AFFBA8BD30B71A
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_32.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_32.Text
+msgid "STRAFE RIGHT"
+msgstr "STRAFE RIGHT"
+
+#. Key:	A9D9B0B544096FA55CA4279519176868
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_ChangeVehicle.E_Slider_ChangeVehicle.DisplayNames(2).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_ChangeVehicle.E_Slider_ChangeVehicle.DisplayNames(2).DisplayNames
+msgid "Jaguar mécanique de ouf"
+msgstr "Jaguar mécanique de ouf"
+
+#. Key:	AB41EB58427EF01B82CCD8BBD26948E0
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ExecuteUbergraph_UI_GIF [Script Bytecode]
+#: /Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ExecuteUbergraph_UI_GIF [Script Bytecode]
+msgid "Failed to generate Gif Frame"
+msgstr "Failed to generate Gif Frame"
+
+#. Key:	AB99951B49D3BC11E74791895AB161CD
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_171.Text
+#. Key:	FA4938624560E80DED8912A6CBB7534D_NewEnumerator119
+#. SourceLocation:	/Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_171.Text
+msgid "Reverse 360°"
+msgstr "Reverse 360°"
+
+#. Key:	AEF4BF3740A097585CA3C2BC42E44895
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_71.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_71.Text
+msgid "MENU SCROLL UP"
+msgstr "MENU SCROLL UP"
+
+#. Key:	B1C6E11B4CEC60E1C106FAA47A924E94
+#. SourceLocation:	/Game/Gameplay/ItemsDatabase/E_Brands.E_Brands.DisplayNames(0).DisplayNames
+#: /Game/Gameplay/ItemsDatabase/E_Brands.E_Brands.DisplayNames(0).DisplayNames
+msgid "Dexter Bass"
+msgstr "Dexter Bass"
+
+#. Key:	B6A7D67049B740D497B65BB4E7BF1796
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(6).DisplayNames
+#: /Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(6).DisplayNames
+msgid "Entry6"
+msgstr "Entry6"
+
+#. Key:	B76C006D4EB8BB7C52A33DA28737FBE4
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/E_Slider_EndRun.E_Slider_EndRun.DisplayNames(0).DisplayNames
+#. Key:	BF2AAC804C035ACFC02FDE90DF41666F
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_Leaderboards.E_Slider_Leaderboards.DisplayNames(0).DisplayNames
+#: /Game/UI/Menus/EndRunScreen/E_Slider_EndRun.E_Slider_EndRun.DisplayNames(0).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_Leaderboards.E_Slider_Leaderboards.DisplayNames(0).DisplayNames
+msgid "Overview"
+msgstr "Overview"
+
+#. Key:	B77C36AD48751C2C7F24FAA38B667864
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_56.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_56.Text
+msgid "QUIT"
+msgstr "QUIT"
+
+#. Key:	B7FB4F4D4740FD4E4D0C85B4F194A069
+#. SourceLocation:	/Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(3).DisplayNames
+#: /Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(3).DisplayNames
+msgid "StrafeRight"
+msgstr "StrafeRight"
+
+#. Key:	B84303C646E3D0E4F9016E9C9A0255FD
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_Leaderboards.E_Slider_Leaderboards.DisplayNames(3).DisplayNames
+#. Key:	C4A3743C4957E8CEB554D3AD3FCE870D
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/E_Slider_EndRun.E_Slider_EndRun.DisplayNames(3).DisplayNames
+#: /Game/UI/Menus/EndRunScreen/E_Slider_EndRun.E_Slider_EndRun.DisplayNames(3).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_Leaderboards.E_Slider_Leaderboards.DisplayNames(3).DisplayNames
+msgid "Friends Speed"
+msgstr "Friends Speed"
+
+#. Key:	BA965B8744A1F0EF7BD72694F6196FCD
+#. SourceLocation:	/Game/UI/HUD/KeyboardPadControls/UI_HUD_TutoControls.UI_HUD_TutoControls_C:WidgetTree.TextBlock_141.Text
+#: /Game/UI/HUD/KeyboardPadControls/UI_HUD_TutoControls.UI_HUD_TutoControls_C:WidgetTree.TextBlock_141.Text
+msgid "RELEASE"
+msgstr "RELEASE"
+
+#. Key:	BB31DD66491BDD4D1A39C1BEC0C8741D
+#. SourceLocation:	/Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(11).DisplayNames
+#: /Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(11).DisplayNames
+msgid "Quit"
+msgstr "Quit"
+
+#. Key:	BB4E765B47A52B35FA4FBB982AFA3F80
+#. SourceLocation:	/Game/Gameplay/ItemsDatabase/E_ItemState.E_ItemState.DisplayNames(0).DisplayNames
+#: /Game/Gameplay/ItemsDatabase/E_ItemState.E_ItemState.DisplayNames(0).DisplayNames
+msgid "Enable"
+msgstr "Enable"
+
+#. Key:	BD47DB2A46F025FA04AAAF953A953424
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(13).DisplayNames
+#: /Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(13).DisplayNames
+msgid "AroundUserEntry2"
+msgstr "AroundUserEntry2"
+
+#. Key:	BDA565C84201D7B825222DA942A9F2A4
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ExecuteUbergraph_UI_GIF [Script Bytecode]
+#: /Game/UI/Menus/EndRunScreen/UI_GIF.UI_GIF_C:ExecuteUbergraph_UI_GIF [Script Bytecode]
+msgid "Please enter PIN and press Enter : "
+msgstr "Please enter PIN and press Enter : "
+
+#. Key:	BDE352D647E05086D6EC3FBBC6777097
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_MainMenuPannel.UI_MainMenuPannel_C:WidgetTree.Txt_Title2.Text
+#: /Game/UI/Menus/MainMenu/UI_MainMenuPannel.UI_MainMenuPannel_C:WidgetTree.Txt_Title2.Text
+msgid "OPTION2"
+msgstr "OPTION2"
+
+#. Key:	BF3F16924C7E990E99869AA542AFA08A
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_68.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_68.Text
+msgid "MENU REPLAY"
+msgstr "MENU REPLAY"
+
+#. Key:	C0D474E049BD5EB79FC540BC24DD1017
+#. SourceLocation:	/Game/UI/Menus/UnlockBonusScreen/UI_UnlockBonus.UI_UnlockBonus_C:WidgetTree.Description.Text
+#: /Game/UI/Menus/UnlockBonusScreen/UI_UnlockBonus.UI_UnlockBonus_C:WidgetTree.Description.Text
+msgid "Use it with: "
+msgstr "Use it with: "
+
+#. Key:	C173247D461392BBB17360A0C284B2E4
+#. SourceLocation:	/Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(19).DisplayNames
+#: /Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(19).DisplayNames
+msgid "MenuDown"
+msgstr "MenuDown"
+
+#. Key:	C19C268E426E9F72451204A0ED8E69F8
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(15).DisplayNames
+#: /Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(15).DisplayNames
+msgid "Loading"
+msgstr "Loading"
+
+#. Key:	C19E87E3426A4F88C781E7AB2AD73CAB
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Pannel_Start.E_Pannel_Start.DisplayNames(4).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Pannel_Start.E_Pannel_Start.DisplayNames(4).DisplayNames
+msgid "Tricktionary"
+msgstr "Tricktionary"
+
+#. Key:	C3334FE14190941C953CC0B0178F50DA
+#. SourceLocation:	/Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(14).DisplayNames
+#: /Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(14).DisplayNames
+msgid "MenuTweet"
+msgstr "MenuTweet"
+
+#. Key:	C3470AFC4D05F21FBBAF9D824220D0BB
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Pannel_Options.E_Pannel_Options.DisplayNames(3).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Pannel_Options.E_Pannel_Options.DisplayNames(3).DisplayNames
+msgid "Toggle Fullscreen"
+msgstr "Toggle Fullscreen"
+
+#. Key:	C3AAB9A448AC3F97C6C7A5A1B031AC58
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_173.Text
+#. Key:	FA4938624560E80DED8912A6CBB7534D_NewEnumerator1311
+#. SourceLocation:	/Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_173.Text
+msgid "Reverse 1080°"
+msgstr "Reverse 1080°"
+
+#. Key:	C60CB3EA418F4AE06782ADB56251E187
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.T_Rumble.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.T_Rumble.Text
+msgid "PAD RUMBLE (WIP): "
+msgstr "PAD RUMBLE (WIP): "
+
+#. Key:	C860E35F41EDC5FE8BF6538EB5873943
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_44.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_44.Text
+msgid "USE BOOST"
+msgstr "USE BOOST"
+
+#. Key:	C878A84B4DD844923B1D929FCF2F9737
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_16.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_16.Text
+msgid "PAD"
+msgstr "PAD"
+
+#. Key:	C8A80397413EE721C89490877802CE97
+#. SourceLocation:	/Game/UI/HUD/KeyboardPadControls/UI_HUD_TutoControls.UI_HUD_TutoControls_C:WidgetTree.TextBlock_6.Text
+#: /Game/UI/HUD/KeyboardPadControls/UI_HUD_TutoControls.UI_HUD_TutoControls_C:WidgetTree.TextBlock_6.Text
+msgid "QUIT TRAINING"
+msgstr "QUIT TRAINING"
+
+#. Key:	C96333EA401E157AD00B32B99645C854
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+msgid "Back"
+msgstr "Back"
+
+#. Key:	C9A1C76B4A5899FC93475882BF3A1D19
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_MainMenuPannel.UI_MainMenuPannel_C:WidgetTree.Txt_Title3.Text
+#: /Game/UI/Menus/MainMenu/UI_MainMenuPannel.UI_MainMenuPannel_C:WidgetTree.Txt_Title3.Text
+msgid "OPTION3"
+msgstr "OPTION3"
+
+#. Key:	CA2F9CDC4104FD5D906AAF9F3A00AE20
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+msgid "B"
+msgstr "B"
+
+#. Key:	CAD94D3E409BC76DEC261B8E3F91DF40
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/Menus/Leaderboard/UI_Leaderboard.UI_Leaderboard_C:WidgetTree.TextBlock_0.Text
+msgid "Connecting to\r\nSteam Leaderboards"
+msgstr "Connecting to\r\nSteam Leaderboards"
+
+#. Key:	CB8A31F84412A78FD358FCB17D89627A
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Value_TotalScore.Text
+#: /Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Value_TotalScore.Text
+msgid "751 654 170"
+msgstr "751 654 170"
+
+#. Key:	CC350FB0443EBCD0C9E679A3F91EC715
+#. SourceLocation:	/Game/UI/HUD/KeyboardPadControls/UI_HUD_TutoControls.UI_HUD_TutoControls_C:WidgetTree.TextBlock_13.Text
+#: /Game/UI/HUD/KeyboardPadControls/UI_HUD_TutoControls.UI_HUD_TutoControls_C:WidgetTree.TextBlock_13.Text
+msgid "AND"
+msgstr "AND"
+
+#. Key:	CC72D441420B7ABE66C3C38D8199C30C
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+msgid "Right Stick Right"
+msgstr "Right Stick Right"
+
+#. Key:	CC9F8FC448CE2D07ECD7B99A5D4E0747
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Pannel_Start.E_Pannel_Start.DisplayNames(2).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Pannel_Start.E_Pannel_Start.DisplayNames(2).DisplayNames
+msgid "Training"
+msgstr "Training"
+
+#. Key:	CCEEB77D45ABDF920B94B3940DF1A3DA
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:UpdateAColumn [Script Bytecode]
+msgid "Right Stick Button"
+msgstr "Right Stick Button"
+
+#. Key:	CDC5AB294FDEEA592A93ADB78CBCD38D
+#. SourceLocation:	/Game/UI/Menus/UnlockBonusScreen/UI_UnlockBonus.UI_UnlockBonus_C:WidgetTree.Descr2.Text
+#: /Game/UI/Menus/UnlockBonusScreen/UI_UnlockBonus.UI_UnlockBonus_C:WidgetTree.Descr2.Text
+msgid "test"
+msgstr "test"
+
+#. Key:	CF418519474C853D612C0998977CBD56
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Flow_MainMenu.E_Flow_MainMenu.DisplayNames(4).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Flow_MainMenu.E_Flow_MainMenu.DisplayNames(4).DisplayNames
+msgid "AdvancedOptions"
+msgstr "AdvancedOptions"
+
+#. Key:	CF535E2D4BD9C6080F16F888213AFFA8
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_ChangeLevel.E_Slider_ChangeLevel.DisplayNames(1).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_ChangeLevel.E_Slider_ChangeLevel.DisplayNames(1).DisplayNames
+msgid "Kurosawa"
+msgstr "Kurosawa"
+
+#. Key:	CF5FCB9E4FC3F43F593B36867C032D55
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_Customise.E_Slider_Customise.DisplayNames(5).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_Customise.E_Slider_Customise.DisplayNames(5).DisplayNames
+msgid "Lights Color"
+msgstr "Lights Color"
+
+#. Key:	CFDA3E334E07AB8CE97854921322B5B1
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:ToggleRumble [Script Bytecode]
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:ToggleRumble [Script Bytecode]
+msgid "NO"
+msgstr "NO"
+
+#. Key:	D0B1CF8941B96B3545599FB617401591
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_ChangeVehicle.E_Slider_ChangeVehicle.DisplayNames(1).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_ChangeVehicle.E_Slider_ChangeVehicle.DisplayNames(1).DisplayNames
+msgid "Rocket stylée"
+msgstr "Rocket stylée"
+
+#. Key:	D1925E954DD68813AA61BA96A85C0E62
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_59.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_59.Text
+msgid "MENU VALIDATE"
+msgstr "MENU VALIDATE"
+
+#. Key:	D27ACDD24CD49D9F4B56A1BA98C0976A
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_MenuSlider.UI_MenuSlider_C:WidgetTree.Txt_Title1.Text
+#: /Game/UI/Menus/MainMenu/UI_MenuSlider.UI_MenuSlider_C:WidgetTree.Txt_Title1.Text
+msgid "T1"
+msgstr "T1"
+
+#. Key:	D2D5BE7A40FC28774AA2CA8C63DB5CF8
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Pannel_Options.E_Pannel_Options.DisplayNames(4).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Pannel_Options.E_Pannel_Options.DisplayNames(4).DisplayNames
+msgid "Advanced Options"
+msgstr "Advanced Options"
+
+#. Key:	D32AD29043A520AAA9F1C19CD66A247A
+#. SourceLocation:	/Game/Base/Blueprints/BP_GamemodeRun.BP_GamemodeRun_C:ExecuteUbergraph_BP_GamemodeRun [Script Bytecode]
+#: /Game/Base/Blueprints/BP_GamemodeRun.BP_GamemodeRun_C:ExecuteUbergraph_BP_GamemodeRun [Script Bytecode]
+msgid "\"Finally, use the strafe to avoid obstacles and pick up ethers.\""
+msgstr "\"Finally, use the strafe to avoid obstacles and pick up ethers.\""
+
+#. Key:	D34B613848E2B0E1473DFCA3AB76159B
+#. SourceLocation:	/Game/Coco/LookLevel.LookLevel:PersistentLevel.BP_Bike_Parent_3002.SlideCurrentDistance_ForHUD
+#: /Game/Coco/LookLevel.LookLevel:PersistentLevel.BP_Bike_Parent_3002.SlideCurrentDistance_ForHUD
+msgid "0.000000"
+msgstr "0.000000"
+
+#. Key:	D3F0450644DFE3DAD97F99A552403719
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_41.Text
+#: /Game/UI/Menus/MainMenu/UI_Controls.UI_Controls_C:WidgetTree.TextBlock_41.Text
+msgid "JUMP"
+msgstr "JUMP"
+
+#. Key:	D44BCD85476970FB49FE5187FDAD0262
+#. SourceLocation:	/Game/UI/Menus/JoyHorizontalPositions.JoyHorizontalPositions.DisplayNames(0).DisplayNames
+#: /Game/UI/Menus/JoyHorizontalPositions.JoyHorizontalPositions.DisplayNames(0).DisplayNames
+msgid "Left"
+msgstr "Left"
+
+#. Key:	D532767141131470E3CBA39DF3D47569
+#. SourceLocation:	/Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:GoForwardAndSlide [Script Bytecode]
+#: /Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:GoForwardAndSlide [Script Bytecode]
+msgid "Drift"
+msgstr "Drift"
+
+#. Key:	D54E07095545D6BCEB743D8994E23D42
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_MenuSlider.UI_MenuSlider_C:WidgetTree.TextBlock_122.Text
+#: /Game/UI/Menus/MainMenu/UI_MenuSlider.UI_MenuSlider_C:WidgetTree.TextBlock_122.Text
+msgid "Send Feedback / Report a bug"
+msgstr "Send Feedback / Report a bug"
+
+#. Key:	D66DD5DE4B1ADA36CE49ABA008FDB48D
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Text_Speed.Text
+#: /Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Text_Speed.Text
+msgid "MAX SPEED"
+msgstr "MAX SPEED"
+
+#. Key:	D67500084C64719EA8A637B2E737C9F3
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.TextBlock_2.Text
+msgid "Share GIF on Twitter"
+msgstr "Share GIF on Twitter"
+
+#. Key:	D78F9AC5443BDAEA18E59BB653C849C7
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(1).DisplayNames
+#: /Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(1).DisplayNames
+msgid "Entry1"
+msgstr "Entry1"
+
+#. Key:	D8B63FCB474266BCAA7B0DAEC58B71B4
+#. SourceLocation:	/Game/Gameplay/Roads/Blueprints/E_RoadType.E_RoadType.DisplayNames(1).DisplayNames
+#: /Game/Gameplay/Roads/Blueprints/E_RoadType.E_RoadType.DisplayNames(1).DisplayNames
+msgid "LFirstTurn"
+msgstr "LFirstTurn"
+
+#. Key:	D9304F884FAB8A0694EE8DA931A95DF5
+#. SourceLocation:	/Game/Gameplay/ItemsDatabase/E_Brands.E_Brands.DisplayNames(3).DisplayNames
+#: /Game/Gameplay/ItemsDatabase/E_Brands.E_Brands.DisplayNames(3).DisplayNames
+msgid "Montero Oil"
+msgstr "Montero Oil"
+
+#. Key:	DAAB19794FCAB92628B145972605D505
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Pannel_Options.E_Pannel_Options.DisplayNames(1).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Pannel_Options.E_Pannel_Options.DisplayNames(1).DisplayNames
+msgid "Auto 180fps"
+msgstr "Auto 180fps"
+
+#. Key:	DF553EB747C6F166F09771A0A5D14728
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_Customise.E_Slider_Customise.DisplayNames(3).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_Customise.E_Slider_Customise.DisplayNames(3).DisplayNames
+msgid "Body Material"
+msgstr "Body Material"
+
+#. Key:	E06CD73942990935D2E6FCA43303CC47
+#. SourceLocation:	/Game/Gameplay/ItemsDatabase/E_Brands.E_Brands.DisplayNames(4).DisplayNames
+#: /Game/Gameplay/ItemsDatabase/E_Brands.E_Brands.DisplayNames(4).DisplayNames
+msgid "Motosenko GTR"
+msgstr "Motosenko GTR"
+
+#. Key:	E0C6EF584CA6A6CCBAB80BBDBF3C990D
+#. SourceLocation:	/Game/Gameplay/ItemsDatabase/E_ItemType.E_ItemType.DisplayNames(5).DisplayNames
+#: /Game/Gameplay/ItemsDatabase/E_ItemType.E_ItemType.DisplayNames(5).DisplayNames
+msgid "LightColor"
+msgstr "LightColor"
+
+#. Key:	E1CA74CC47F15ED0DFB0FDBC9F14AA47
+#. SourceLocation:	/Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Text_TotalScore.Text
+#: /Game/UI/Menus/EndRunScreen/UI_Overview.UI_Overview_C:WidgetTree.Text_TotalScore.Text
+msgid "SKILL SCORE"
+msgstr "SKILL SCORE"
+
+#. Key:	E38382EE49C256C2FA796AA79AEC8612
+#. SourceLocation:	/Game/Gameplay/ItemsDatabase/E_ItemType.E_ItemType.DisplayNames(7).DisplayNames
+#: /Game/Gameplay/ItemsDatabase/E_ItemType.E_ItemType.DisplayNames(7).DisplayNames
+msgid "TyreColor"
+msgstr "TyreColor"
+
+#. Key:	E4609801435D38C923981D896E202AE4
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_79.Text
+#: /Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_79.Text
+msgid "...then JUMP!"
+msgstr "...then JUMP!"
+
+#. Key:	E513A60446EB2FD83AC312A8F1A435E3
+#. SourceLocation:	/Game/UI/Menus/JoyVerticalPositions.JoyVerticalPositions.DisplayNames(2).DisplayNames
+#: /Game/UI/Menus/JoyVerticalPositions.JoyVerticalPositions.DisplayNames(2).DisplayNames
+msgid "Down"
+msgstr "Down"
+
+#. Key:	E55F4353430A56DC079BEDBC618CFF6D
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_CustoPannel.UI_CustoPannel_C:WidgetTree.Arrow_Down.Text
+#: /Game/UI/Menus/MainMenu/UI_CustoPannel.UI_CustoPannel_C:WidgetTree.Arrow_Down.Text
+msgid "\\/"
+msgstr "\\/"
+
+#. Key:	E58D2D6543C4E3146896A6BCB8BC8397
+#. SourceLocation:	/Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(9).DisplayNames
+#: /Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(9).DisplayNames
+msgid "ShowTricklist"
+msgstr "ShowTricklist"
+
+#. Key:	E5BFA30A46C781BE2B7F2E995F76AB0C
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_151.Text
+#. Key:	FA4938624560E80DED8912A6CBB7534D_NewEnumerator53
+#. SourceLocation:	/Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/Bikes/BP_Bike_Parent.BP_Bike_Parent_C:Tricks_DriftModificator_Update [Script Bytecode]
+#: /Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_151.Text
+msgid "Double Heelflip"
+msgstr "Double Heelflip"
+
+#. Key:	E9CD43054CC432ED769E8586E466BA1C
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_MainMenuPannel.UI_MainMenuPannel_C:WidgetTree.Txt_Title4.Text
+#: /Game/UI/Menus/MainMenu/UI_MainMenuPannel.UI_MainMenuPannel_C:WidgetTree.Txt_Title4.Text
+msgid "OPTION4"
+msgstr "OPTION4"
+
+#. Key:	EB952357409D6F9F841DFFAC7900DF61
+#. SourceLocation:	/Game/UI/HUD/UI_SteamProfile.UI_SteamProfile_C:WidgetTree.Text_Speed.Text
+#: /Game/UI/HUD/UI_SteamProfile.UI_SteamProfile_C:WidgetTree.Text_Speed.Text
+msgid "NEW HIGH SPEED!"
+msgstr "NEW HIGH SPEED!"
+
+#. Key:	ECE6D01541635B74872F67A4DF8FC9E0
+#. SourceLocation:	/Game/Gameplay/ItemsDatabase/E_ItemType.E_ItemType.DisplayNames(8).DisplayNames
+#: /Game/Gameplay/ItemsDatabase/E_ItemType.E_ItemType.DisplayNames(8).DisplayNames
+msgid "Rim"
+msgstr "Rim"
+
+#. Key:	EDA1E9AC439B44E561B0B1A40CF1F033
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_CustoPannel.UI_CustoPannel_C:WidgetTree.Txt_Price2.Text
+#: /Game/UI/Menus/MainMenu/UI_CustoPannel.UI_CustoPannel_C:WidgetTree.Txt_Price2.Text
+msgid "9999"
+msgstr "9999"
+
+#. Key:	EE326AF347262011EEB92C8D7DFB751B
+#. SourceLocation:	/Game/Gameplay/ItemsDatabase/E_ItemType.E_ItemType.DisplayNames(9).DisplayNames
+#: /Game/Gameplay/ItemsDatabase/E_ItemType.E_ItemType.DisplayNames(9).DisplayNames
+msgid "RimMat"
+msgstr "RimMat"
+
+#. Key:	EF0BFF894EFD77B98CE749A6EA4FA13B
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_MainMenuPannel.UI_MainMenuPannel_C:WidgetTree.Txt_Title8.Text
+#: /Game/UI/Menus/MainMenu/UI_MainMenuPannel.UI_MainMenuPannel_C:WidgetTree.Txt_Title8.Text
+msgid "OPTION8"
+msgstr "OPTION8"
+
+#. Key:	F19A776141421445450A4FB1AFA5CDED
+#. SourceLocation:	/Game/Gameplay/ItemsDatabase/E_ItemState.E_ItemState.DisplayNames(2).DisplayNames
+#: /Game/Gameplay/ItemsDatabase/E_ItemState.E_ItemState.DisplayNames(2).DisplayNames
+msgid "TooExpansive"
+msgstr "TooExpansive"
+
+#. Key:	F48174AA42660C0EA00FBB9EA1A134F9
+#. SourceLocation:	/Game/UI/HUD/KeyboardPadControls/UI_HUD_TutoControls.UI_HUD_TutoControls_C:WidgetTree.TextBlock_14.Text
+#: /Game/UI/HUD/KeyboardPadControls/UI_HUD_TutoControls.UI_HUD_TutoControls_C:WidgetTree.TextBlock_14.Text
+msgid " TO STRAFE"
+msgstr " TO STRAFE"
+
+#. Key:	F4D7C4D44DBB42EC8612CB9077BF604B
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Slider_MainMenu.E_Slider_MainMenu.DisplayNames(1).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Slider_MainMenu.E_Slider_MainMenu.DisplayNames(1).DisplayNames
+msgid "Vehicle"
+msgstr "Vehicle"
+
+#. Key:	F6C03C8048A0942D23074597C1039CEB
+#. SourceLocation:	/Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(5).DisplayNames
+#: /Game/Base/Blueprints/E_GameActions.E_GameActions.DisplayNames(5).DisplayNames
+msgid "TrickInputRight"
+msgstr "TrickInputRight"
+
+#. Key:	F8D863304188E87D2B58438D453E5501
+#. SourceLocation:	/Game/UI/Menus/MainMenu/UI_MainMenuPannel.UI_MainMenuPannel_C:WidgetTree.Txt_Title7.Text
+#: /Game/UI/Menus/MainMenu/UI_MainMenuPannel.UI_MainMenuPannel_C:WidgetTree.Txt_Title7.Text
+msgid "OPTION7"
+msgstr "OPTION7"
+
+#. Key:	F8FBE44B42FFC896153B9DA294AEB43B
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_RunHUD.UI_RunHUD_C:WidgetTree.Text_Combo.Text
+#: /Game/UI/HUD/RunHUD/UI_RunHUD.UI_RunHUD_C:WidgetTree.Text_Combo.Text
+msgid "x1"
+msgstr "x1"
+
+#. Key:	F972BC9245D07C447F0AD282814DE374
+#. SourceLocation:	/Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(2).DisplayNames
+#: /Game/UI/Menus/Leaderboard/E_LeaderboardLines.E_LeaderboardLines.DisplayNames(2).DisplayNames
+msgid "Entry2"
+msgstr "Entry2"
+
+#. Key:	FA6C6FDC4D726B043D595B83AF12CD2D
+#. SourceLocation:	/Game/Gameplay/ItemsDatabase/E_ItemType.E_ItemType.DisplayNames(2).DisplayNames
+#: /Game/Gameplay/ItemsDatabase/E_ItemType.E_ItemType.DisplayNames(2).DisplayNames
+msgid "BodyColor2"
+msgstr "BodyColor2"
+
+#. Key:	FB2067E84A14A3F69A2463812D397922
+#. SourceLocation:	/Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_27.Text
+#: /Game/UI/HUD/RunHUD/UI_TrickList.UI_TrickList_C:WidgetTree.TextBlock_27.Text
+msgid "Perform COMBINATION..."
+msgstr "Perform COMBINATION..."
+
+#. Key:	FBE30CD64001A9373F8214B8C3D33D21
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Pannel_Options.E_Pannel_Options.DisplayNames(7).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Pannel_Options.E_Pannel_Options.DisplayNames(7).DisplayNames
+msgid "Send feedback"
+msgstr "Send feedback"
+
+#. Key:	FE0F347D4B168D65F20D10BE1C8C3455
+#. SourceLocation:	/Game/UI/Menus/MainMenu/E_Pannel_Start.E_Pannel_Start.DisplayNames(1).DisplayNames
+#: /Game/UI/Menus/MainMenu/E_Pannel_Start.E_Pannel_Start.DisplayNames(1).DisplayNames
+msgid "Time of day"
+msgstr "Time of day"
+
+#. Key:	FEE7E3724E900915AD42BFAA6FF50654
+#. SourceLocation:	/Game/UI/HUD/UI_SteamProfile.UI_SteamProfile_C:WidgetTree.TextBlock_127.Text
+#: /Game/UI/HUD/UI_SteamProfile.UI_SteamProfile_C:WidgetTree.TextBlock_127.Text
+msgid "99.103 km/h"
+msgstr "99.103 km/h"
+
